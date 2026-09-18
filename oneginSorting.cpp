@@ -4,7 +4,6 @@
 #include <stdint.h>
 #include <ctype.h>
 #include <stdlib.h>
-#include "stringFunctions.cpp"
 #include "sorting.cpp"
 
 const int MAX_STR = 10000;
@@ -31,9 +30,11 @@ int main()
 
     writeToFile(index, nLines, filePointerWrite);
 
-    qSort(index, nLines, strComparatorFromEnd, sizeof(char*));
+    qsort(index, nLines, sizeof(char*), strComparatorFromEnd);
 
     writeToFile(index, nLines, filePointerWrite);
+
+    writeToFile(text, nLines, filePointerWrite);
 
     fclose(filePointerWrite);
 
