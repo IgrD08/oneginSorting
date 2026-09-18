@@ -95,16 +95,19 @@ int strComparatorFromEnd(const void *first, const void *second)
 
     int i = firstCounter - 1;
     int j = secondCounter - 1;
-    for (; i >= 0, j >= 0; i--, j--)
+    for (; i >= 0 && j >= 0; i--, j--)
     {
         while (!isalpha(firstString[i]) && i >= 1) i--;
         while (!isalpha(secondString[j]) && j >= 1) j--;
 
-        if (tolower(firstString[i]) != tolower(secondString[j]))
+        int charFirst = tolower(firstString[i]);
+        int charSecond = tolower(secondString[j]);
+
+        if (charFirst != charSecond)
         {
-            return secondString[i] - firstString[j];
+            return charFirst - charSecond;
         }
     }
 
-    return secondString[i] - firstString[j];
+    return i - j;
 }

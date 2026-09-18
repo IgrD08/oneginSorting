@@ -13,6 +13,7 @@ void writeToFile(char **index, int numberOfReadLines, FILE *filePointerLines);
 
 int main()
 {
+//TODO - сделать структуры, заменить на fread
     char *text[MAX_STR] = {};
     char *index[MAX_STR] = {};
 
