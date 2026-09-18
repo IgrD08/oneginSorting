@@ -27,7 +27,7 @@ void qSort(void *array, size_t arrayLen,
     qSort((uint8_t*)array, quantityLessLast, comparator, sizeType);
 
     qSort((uint8_t*)array + (quantityLessLast + 1) * sizeType, arrayLen - quantityLessLast - 1, comparator, sizeType);
-
+//TODO - убрать хуёвины
     return;
 }
 
@@ -53,11 +53,11 @@ int strComparatorDown(const void *first, const void *second)
     assert(first);
     assert(second);
 
-    const char *firstString = *((const char**)first);
-    const char *secondString = *((const char**)second);
+    const char *firstString = *((const char*const*) first);
+    const char *secondString = *((const char*const*) second);
     int firstCounter = 0, secondCounter = 0;
 
-    while ((firstString[firstCounter]) != '\0' &&
+    while ((firstString[firstCounter])  != '\0' &&
            (secondString[secondCounter]) != '\0')
     {
         while (!isalpha(firstString[firstCounter]) && firstString[firstCounter] != '\0') firstCounter++;
@@ -85,8 +85,8 @@ int strComparatorFromEnd(const void *first, const void *second)
     assert(first);
     assert(second);
 
-    const char *firstString = *((const char**)first);
-    const char *secondString = *((const char**)second);
+    const char *firstString = *((const char*const*)first);
+    const char *secondString = *((const char*const*)second);
     int firstCounter = 0, secondCounter = 0;
 
     while ((firstString[firstCounter]) != '\0') firstCounter++;

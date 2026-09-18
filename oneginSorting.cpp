@@ -59,7 +59,7 @@ int readFromFile(char **text, char **index, const char *fileName)
 
     char buffer[MAX_STR] = "";
 
-    while(numberOfReadLines < MAX_STR && fgets(buffer, sizeof(buffer), filePointerRead) != NULL)
+    while (numberOfReadLines < MAX_STR && fgets(buffer, sizeof(buffer), filePointerRead) != NULL)
     {
         size_t lenBuffer = strlen(buffer);
 
@@ -69,7 +69,7 @@ int readFromFile(char **text, char **index, const char *fileName)
         }
 
         text[numberOfReadLines] = strdup(buffer);
-
+        //TODO - free() использовать обёртку и применить
         index[numberOfReadLines] = text[numberOfReadLines];
 
         numberOfReadLines++;
