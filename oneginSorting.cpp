@@ -3,94 +3,135 @@
 #include <string.h>
 #include <stdint.h>
 #include <ctype.h>
+#include <fcntl.h>
+#include <unistd.h>
 #include <stdlib.h>
+#include <sys/stat.h>
 #include "sorting.cpp"
 
 const int MAX_STR = 10000;
 
-int readFromFile(char **text, char **index, const char *fileName);
-void writeToFile(char **index, int numberOfReadLines, FILE *filePointerLines);
+int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr);
+void writeToFile(char **index, int numberOfReadLines, int fileDescriptor);
+int fileOpening(const char *fileName, int flag);
+char* strchrMy(char *str, int ch);
 
 int main()
 {
-//TODO - сделать структуры, заменить на fread
-    char *text[MAX_STR] = {};
-    char *index[MAX_STR] = {};
+    char *index[MAX_STR] = {NULL};
+    char *buffer = NULL;
 
-    int nLines = readFromFile(text, index, "onegin.txt");
+    int nLines = readFromFile(index, "onegin.txt", O_RDONLY, &buffer);
 
-    FILE *filePointerWrite = fopen("reonegin.txt", "w");
-
-    if (filePointerWrite == NULL)
-    {
-        fprintf(stderr, "Unable to open %s\n", "reonegin.txt");
-        return 0;
-    }
+    int fileDescriptorWrite = fileOpening("reonegin.txt", O_WRONLY);
 
     qSort(index, nLines, strComparatorDown, sizeof(char*));
 
-    writeToFile(index, nLines, filePointerWrite);
+    writeToFile(index, nLines, fileDescriptorWrite);
 
-    qsort(index, nLines, sizeof(char*), strComparatorFromEnd);
+    qsort(index, nLines, sizeof(char*), strComparatorFromEnd);//TODO - массив структур
 
-    writeToFile(index, nLines, filePointerWrite);
+    writeToFile(index, nLines, fileDescriptorWrite);
 
-    writeToFile(text, nLines, filePointerWrite);
+//     qSort(index, nLines, intComparator, sizeof(int));
+//
+//     writeToFile(index, nLines, fileDescriptorWrite);
 
-    fclose(filePointerWrite);
+    close(fileDescriptorWrite);
+
+    free(buffer); //TODO - прокачать free
+
 
     return 0;
 }
 
-int readFromFile(char **text, char **index, const char *fileName)
+int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 {
     assert(fileName);
     assert(index);
-    assert(text);
+    assert(bufferPtr);
 
-    FILE *filePointerRead = fopen(fileName, "r");
+    int fileDescriptorRead = fileOpening(fileName, flag);//TODO можно ли возвращать код ошибки
+    if (fileDescriptorRead < 0) return -1;
+
+    struct stat fileInfo;
+    stat(fileName, &fileInfo);//TODO что возвращает stat
+
+    *bufferPtr = (char*) (calloc(fileInfo.st_size + 1, sizeof(char)));
+
+    read(fileDescriptorRead, *bufferPtr, fileInfo.st_size + 1);
+    (*bufferPtr)[fileInfo.st_size] = '\0';
+    close(fileDescriptorRead);
+
     int numberOfReadLines = 0;
 
-    if (filePointerRead == NULL)
+    index[numberOfReadLines] = *bufferPtr;
+    numberOfReadLines++;
+
+    char *element = *bufferPtr;
+
+    while ((element = strchr(element, '\n')) != NULL)//TODO - проход по строке
     {
-        fprintf(stderr, "Unable to open %s\n", fileName);
-        return -2;
-    }
+        *element = '\0';
 
-    char buffer[MAX_STR] = "";
+        char *nextLine = element + 1;
 
-    while (numberOfReadLines < MAX_STR && fgets(buffer, sizeof(buffer), filePointerRead) != NULL)
-    {
-        size_t lenBuffer = strlen(buffer);
-
-        if (lenBuffer > 0 && buffer[lenBuffer - 1] == '\n')
+        if (*nextLine != '\0' && numberOfReadLines < MAX_STR)
         {
-            buffer[lenBuffer - 1] = '\0';
+            index[numberOfReadLines] = nextLine;
+            numberOfReadLines++;
         }
 
-        text[numberOfReadLines] = strdup(buffer);
-        //TODO - free() использовать обёртку и применить
-        index[numberOfReadLines] = text[numberOfReadLines];
-
-        numberOfReadLines++;
+        element = nextLine;
     }
-
-    fclose(filePointerRead);
 
     return numberOfReadLines;
 }
 
-void writeToFile(char **index, int numberOfReadLines, FILE *filePointerWrite)
+void writeToFile(char **index, int numberOfReadLines, int fileDescriptor)
 {
     assert(index);
-    assert(filePointerWrite);
 
     for (int i = 0; i < numberOfReadLines; i++)
     {
-        fprintf(filePointerWrite, "<<%s>>\n", index[i]);
+        if (index[i] != NULL)
+        {
+            write(fileDescriptor, index[i], strlen(index[i]));
+            write(fileDescriptor, "\n", 1);
+        }
     }
 
-    fprintf(filePointerWrite, "*****************************************\n");
+    const char *text = "*****************************************\n";
+
+    write(fileDescriptor, text, 42);
 
     return;
+}
+
+int fileOpening(const char *fileName, int flag)
+{
+    int fileDescriptor = open(fileName, flag);
+
+    if (fileDescriptor == -1)
+    {
+        fprintf(stderr, "Unable to open %s\n", fileName);
+
+        return fileDescriptor;
+    }
+
+    return fileDescriptor;
+}
+
+char* strchrMy(char *str, int ch)
+{
+
+    while (*str != '\0')
+    {
+
+        if (*str == ch)
+            return str;
+
+        str++;
+    }
+    return NULL;
 }

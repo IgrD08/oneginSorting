@@ -3,6 +3,7 @@ void qSort(void *array, size_t arrayLen,
            int (*comparator)(const void* first, const void* second), size_t sizeType);
 int strComparatorDown(const void *first, const void *second);
 int strComparatorFromEnd(const void *first, const void *second);
+int intComparator(const void *first, const void *second);
 
 void qSort(void *array, size_t arrayLen,
            int (*comparator)(const void* first, const void* second), size_t sizeType)
@@ -18,16 +19,18 @@ void qSort(void *array, size_t arrayLen,
     {
         if (comparator((uint8_t*)array + i * sizeType, last) > 0)
         {
-            swap((uint8_t*)array + quantityLessLast * sizeType, (uint8_t*)array + i * sizeType, sizeType);
+            swap((uint8_t*)array + quantityLessLast * sizeType,
+                 (uint8_t*)array + i * sizeType, sizeType);
             quantityLessLast++;
         }
     }
-    swap((uint8_t*)array + quantityLessLast * sizeType, (uint8_t*)array + (arrayLen - 1) * sizeType, sizeType);
+    swap((uint8_t*)array + quantityLessLast * sizeType,
+         (uint8_t*)array + (arrayLen - 1) * sizeType, sizeType);
 
     qSort((uint8_t*)array, quantityLessLast, comparator, sizeType);
 
-    qSort((uint8_t*)array + (quantityLessLast + 1) * sizeType, arrayLen - quantityLessLast - 1, comparator, sizeType);
-//TODO - убрать хуёвины
+    qSort((uint8_t*)array + (quantityLessLast + 1) * sizeType,
+          arrayLen - quantityLessLast - 1, comparator, sizeType);
     return;
 }
 
@@ -60,8 +63,10 @@ int strComparatorDown(const void *first, const void *second)
     while ((firstString[firstCounter])  != '\0' &&
            (secondString[secondCounter]) != '\0')
     {
-        while (!isalpha(firstString[firstCounter]) && firstString[firstCounter] != '\0') firstCounter++;
-        while (!isalpha(secondString[secondCounter]) && secondString[secondCounter] != '\0') secondCounter++;
+        while (!isalpha(firstString[firstCounter]) &&
+               firstString[firstCounter] != '\0') firstCounter++;
+        while (!isalpha(secondString[secondCounter]) &&
+               secondString[secondCounter] != '\0') secondCounter++;
 
         if (firstString[firstCounter] == '\0' || secondString[secondCounter] == '\0')
         {
@@ -70,7 +75,7 @@ int strComparatorDown(const void *first, const void *second)
 
         if (tolower(firstString[firstCounter]) != tolower(secondString[secondCounter]))
         {
-            return secondString[secondCounter] - firstString[firstCounter];
+            return tolower(secondString[secondCounter]) - tolower(firstString[firstCounter]);
         }
 
         firstCounter++;
@@ -110,4 +115,15 @@ int strComparatorFromEnd(const void *first, const void *second)
     }
 
     return i - j;
+}
+
+int intComparator(const void *first, const void *second)
+{
+    assert(first);
+    assert(second);
+
+    const int firstValue = *((const int*)first);
+    const int secondValue = *((const int*)second);
+
+    return secondValue - firstValue;
 }
