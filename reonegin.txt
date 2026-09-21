@@ -1,1024 +1,1053 @@
-     {233}
 
 
 
 
-     {232}
-     {35}
 
 
 
 
 
-     {36}
 
 
 
 
-     {37}
 
 
 
 
 
 
-     {38}
 
 
 
 
-     {39}
 
 
 
 
-     {40}
 
 
 
 
 
-     {41}
 
 
 
 
-     {42}
 
 
 
 
-     {43}
 
 
 
 
-     {44}
 
 
 
 
-     {45}
 
 
 
 
-     {46}
 
 
 
 
-     {47}
 
 
 
 
-     {48}
 
 
 
 
-     {49}
 
 
 
 
-     {50}
 
 
 
 
-     {51}
 
 
 
 
-     {52}
 
 
 
 
-     {53}
 
 
 
 
-     {54}
 
 
 
 
-     {55}
 
 
 
 
-     {56}
 
 
 
 
-     {57}
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     {233}
+
+
      {58}
-
-
-
-
+     {232}
      {59}
-
-
-
-
+
      {60}
-
-
-
-
      {61}
-
-
+
      {62}
-
-
-
 --------
-
-
-
-
-
-
      {63}
-
-
-
-
+
      {64}
-
-
-
-
+     {38}
      {65}
-
-
-
-
      {66}
-
-
-
-
      {67}
-
-
-
-
      {68}
-
-
-
-
      {69}
-
-
-
-
      {70}
-
-
-
-
      {71}
-
-
-
-
      {72}
-
-
-
-
      {73}
-
-
-
-
+     {39}
      {74}
-
-
-
-
+     {35}
      {75}
-
-
-
-
      {76}
-
-
-
-
      {77}
-
-
-
-
      {78}
-
-
-
-
      {79}
-
-
-
-
      < ...
      ... >2
      {80}
-
-
-
-
      {81}
-
-
-
-
      {82}
-
-
+     {40}
      {83}
-
-
-
 --------
-
-
-
-
-
+
      {84}
-
-
-
-
 1
      {85}
-
-
-
-
      {86}
-
-
-
-
      {87}
-
-
-
-
      {88}
-
-
-
-
      {89}
-
-
-
-
      {90}
-
-
-
-
+     {41}
      {91}
-
-
-
-
      {92}
-
-
-
-
      {93}
-
-
-
-
      {94}
-
-
-
-
      {95}
-
-
-
-
      {96}
-
-
-
-
      {97}
-
-
-
-
      {98}
-
-
-
-
      {99}
-
-
-
-
+     {42}
      {100}
-
-
      {101}
-
-
      {102}
-
-
-
-
      {103}
-
-
-
-
      {104}
-
-
-
-
      {105}
-
-
-
-
      {106}
-
-
      {107}
-
-
-
-
      {108}
-
-
-
 --------
-
-
-
-
-
-
+     {43}
      {109}
-
-
-
-
      {110}
-
-
-
-
      {111}
-
-
-
-
      {112}
-
-
-
-
      {113}
-
-
-
-
      {114}
-
-
-
-
      {115}
-
-
-
-
      {116}
-
-
-
-
      {117}
-
-
-
-
+     {44}
      {118}
-
-
-
-
      {119}
-
-
-
-
      {120}
-
-
-
-
      {121}
-
-
-
-
      {122}
-
-
-
-
      {123}
-
-
-
-
      {124}
-
-
-
-
      {125}
-
-
-
-
+     {45}
      {126}
-
-
-
-
      {127}
-
-
-
-
      {128}
-
-
-
-
      {129}
-
-
-
-
      {130}
-
-
      {131}
-
-
-
 --------
-
-
-
-
-
-
      {132}
-
-
-
-
      {133}
-
-
-
-
+     {46}
      {134}
-
-
-
-
      {135}
-
-
-
-
      {136}
-
-
-
-
      {137}
-
-
-
-
-     {231}
+     {231}
      {138}
-
-
-
-
      {139}
-
-
-
-
      {140}
-
-
-
-
      {141}
-
-
-
-
      {142}
-
-
-
-
+     {47}
      {143}
-
-
-
-
      {144}
-
-
-
-
      {145}
-
-
-
-
      {146}
-
-
-
-
      {147}
-
-
-
-
      {148}
-
-
-
-
      {149}
-
-
-
-
      {150}
-
-
-
-
      {151}
-
-
-
-
+     {48}
+     {36}
      {152}
-
-
-
-
         ... ...
-
      {153}
-
-
-
-
      {154}
-
-
-
 --------
-
-
-
-
-
-
      {155}
-
-
-
-
      {156}
-
-
-
-
      {157}
-
-
-
-
      {158}
-
-
-
-
+     {49}
      {159}
-
-
-
-
      {160}
-
-
-
-
      {161}
-
-
-
-
      {162}
-
-
-
-
      {163}
-
-
-
-
      {164}
-
-
-
-
      {165}
-
-
-
-
      {166}
-
-
-
-
      {167}
-
-
-
-
+     {50}
      {168}
-
-
-
-
      {169}
-
-
-
-
      {170}
-
-
-
-
      {171}
-
-
-
-
      {172}
-
-
-
-
      {173}
-
-
-
-
      {174}
-
-
-
-
      {175}
-
-
-
-
      {176}
-
-
+     {51}
      {177}
-
-
-
 --------
-
-
-
-
-
-
-
-
      {178}
-
-
-
-
      {179}
-
-
-
-
      {180}
-
-
-
-
      {181}
-
-
-
-
      {182}
-
-
-
-
      {183}
-
-
-
-
+     {52}
      {184}
-
-
-
-
      {185}
-
-
-
-
      {186}
-
-
-
-
      {187}
-
-
-
-
      {188}
-
-
-
-
      {189}
-
-
-
-
      {190}
-
-
-
-
      {191}
-
-
-
-
      {192}
-
-
-
-
+     {53}
      {193}
-
-
-
-
      {194}
-
-
-
-
      {195}
-
-
-
-
      {196}
-
-
-
-
      {197}
-
-
-
-
      {198}
-
-
-
-
      {199}
-
-
-
-
      {200}
-
-
-
-
      {201}
-
-
-
-
+     {54}
      {202}
-
-
-
-
      {203}
-
-
      {204}
-
-
-
 --------
-
-
-
-
-
      {205}
-
-
         ... ...
-
-
      {206}
-
-
-
-
      {207}
-
-
-
-
      {208}
-
-
-
-
      {209}
-
-
-
-
+     {55}
      {210}
-
-
-
-
      {211}
-
-
-
-
      {212}
-
-
-
-
      {213}
-
-
-
-
      {214}
-
-
-
-
      {215}
-
-
-
-
      {216}
-
-
-
-
         ... ...
      {217}
-
-
-
-
      {218}
-
-
-
-
+     {56}
      {219}
-
-
-
-
      {220}
-
-
      {221}
-
-
-
-
      {222}
-
-
-
      {223}
-
-
-
-
+     {37}
      {224}
-
-
-
-
      {225}
-
-
-
-
      {226}
-
-
-
-
      {227}
-
-
-
-
+     {57}
      {228}
-
-
-
-
      {229}
-
-
-
-
      {230}
-
-
-
-
+     {231}
+     {232}
+     {233}
+     {227}
+
+
+
+
+     {228}
+
+
+
+
+     {229}
+
+
+
+
+     {230}
+
+
+
+
      A backward look is fraught with danger;
      a ball here, there a children's party;
      a ball in Petersburg; but fun
@@ -1075,6 +1104,7 @@
      adorns Aunt Helen, the princess;
      a dream's mute monument, reflection
      a dumb moon, on a dumb horizon.''
+     advantages of heart and brain,
      advantages of heart and brain,
      advises him of dinner-time.
      a dwarf with tail, and a half-strain,
@@ -1086,8 +1116,10 @@
      a fisher's fire. Through country gleaming
      a flimsy bridge whose every quake
      a flood on which no frosty band
+     a foe -- our mood should be warm-hearted.
      a foe -- our mood should be warm-hearted.
      a fop, a punter on the cards,
+     a free romance's far horizon,
      a free romance's far horizon,
      a frequent question: ``tell me who
      a friend of yours in his first youth
@@ -1126,6 +1158,7 @@
      a hideous deal of tribulation.
      a house, a village, and a wood
      ``Ah, Tanya, come to me, it seems
+     a humble cross, in woodland gloom,
      a humble cross, in woodland gloom,
      ``A humble sinner, Dimitry Larin,
      a hundred times afresh distorted;
@@ -1163,6 +1196,7 @@
      all others with a waistcoat's set
      allow no rest to you or me;
      allows her hand, that's lost all feeling,
+     allows her hand, that's lost all feeling,
      allows no comfort to come through --
      all plunged his soul deep in the stream
      all point at her, and all combine
@@ -1259,9 +1293,11 @@
      And all the while the moon was shining
      and all the works of Fontanelle16 --
      and all the world is buried deep.
+     and all this flashy masquerading,
      and all this flashy masquerading,
      and almost swoons, and almost dies.
      and also prettier, I'll be bound,
+     and also prettier, I'll be bound,
      and although Troy's greybeards, collected
      and always the inspired regard --
      and always the self-same objection;
@@ -1310,9 +1346,11 @@
      and dutifully shared his life
      and ease his catch with all due care.
      and eatables beyond all classing
+     and empty gossip, you'll allow,
      and empty gossip, you'll allow,
      and entered. Ballroom overflowing...
      and entice a fellow in
+     and enviable for a poet,
      and enviable for a poet,
      And Eugene? half-awake, half-drowsing,
      and even honourable man:
@@ -1390,6 +1428,7 @@
      and I be by the world forgot;
      And if she happened anywhere
      and I'll be thirty in a trice?
+     and I'll be true to him, for life.''
      and I'll be true to him, for life.''
      and in a corner make him choke
      and in a singsong voice confide
@@ -1437,6 +1476,7 @@
      and locked him in a dark recess.
      and logic; yet the conversation
      And long, as if through mists that spurted,
+     and looked at him without a word,
      and looked at him without a word,
      and looked for Lensky, while the labour
      and look, my cousin's come, Buyánov,
@@ -1449,6 +1489,7 @@
      and melancholy as Svetlana,2
      and mileposts grip the idle sense
      and more than once the German baker,
+     And my companion, so mysterious,
      And my companion, so mysterious,
      and my whole life has been directed
      and nameless rivulet, that scene
@@ -1515,6 +1556,7 @@
      and rest his dear bones in the tomb,
      and rest myself from earlier days.
      and riches, and the wish to thank
+     and riches, and the wish to thank
      and rightly so, but now his pain
      and roused the village long ago:
      and ruled him like an autocrat --
@@ -1546,6 +1588,7 @@
      and so, before the world of learning,
      and so he lacks the strength to mention
      and so in the salons could make
+     and so in the salons could make
      and so in winter-fields will shiver
      And someone's heart will feel a quiver,
      and some were even testifying
@@ -1575,9 +1618,11 @@
      and tedious means to festive ends.
      and telling trochee from iambic
      and tell of children's plighted playing
+     and than these letters, and these tears.
      and than these letters, and these tears.
      and that embittered mind which boils
      and the blancmanger, then a fleet
+     and the churchyard where, new-erected,
      and the churchyard where, new-erected,
      and the deep-throated billows' choric
      and the derivative Knyazhnín:8
@@ -1661,6 +1706,7 @@
      and with his dinner, and his wife.
      and, with it, forced renown to come --
      and with its feeble glow outlining
+     and, with my Eugene, so have I.
      and, with my Eugene, so have I.
      and with no post, no work, no wife,
      and with the decorous throng to follow
@@ -1674,6 +1720,7 @@
      and yet inseparably present,
      and yet in vain ennui I squander
      and yet so light. All that is real
+     and yet so light. All that is real
      And yet that goddess whom I'd never
      and yet your honour is my gage
      and your alas-ing and alack-ing
@@ -1712,6 +1759,7 @@
      apartment where a double glaze
      a passer-by; and on tiptoe
      a patriot, a cosmopolite,
+     A pause of silence and inaction,
      A pause of silence and inaction,
      a place for rest. Eugene alone
           ``A place where you'll find none of us.''
@@ -1735,6 +1783,7 @@
      are here untouched by fashion's reign,
      are just as nimble as their feet.
      are old times, and the servants' hall.
+     a rest from toil and all its aches,
      a rest from toil and all its aches,
      a restless urge for change of place
      are treated to the fullest rigour
@@ -1810,6 +1859,7 @@
      as pair by pair the dancers fly.
      a spirit strange, a spirit burning,
      as sacred, lies before me still.
+     as Sadi17 sang in earlier ages,
      as Sadi17 sang in earlier ages,
      as scarlet heels have lost their name
      assembly, silent and dejected?
@@ -1841,6 +1891,7 @@
      a tear for him... but what's to weep?
      at earliest morning out she started,
      at eighteen years, to some compassion.
+     a tempting plume for you to take?
      a tempting plume for you to take?
      At feasts, though, full of pert aggression,
      at feasts, was strong and fancy-free?
@@ -1867,6 +1918,7 @@
      at least her tone is sometimes found
      At least I'll give him some advice:
      At least you then showed for my years
+     At least you then showed for my years
      at length, midst children swarming round him,
      at my famed portrait and will say:
      at noontime does his horn resound
@@ -1881,6 +1933,7 @@
      at such vivacious, free good sense.
      at sunken wax inside a bowl:
      attainable!... But now my lot
+     attainable!... But now my lot
      at the Academic Diction-book.
      ``At the Larins'!'' ``But how mysterious.
      at the same moment in her ear:
@@ -1894,6 +1947,7 @@
      audacious tunnels will be marching:
      8 August Lafontaine (1758-1851), German novelist of family life.
      avert his chest from pistol's click,
+     a vivid brush, a witty rattle --
      a vivid brush, a witty rattle --
      a vulgar touch. I can't translate.
      awaits him -- hears nobody coming.
@@ -1932,6 +1986,7 @@
      before him roast beef, red and gory,
      before his eyes, imagination
      before it was the golden play
+     before my gaze began to pass.
      before my gaze began to pass.
      before Onegin there collected
      before she goes, she seeks permission
@@ -1945,6 +2000,7 @@
      before you on the ground, unhearing,
      be good enough to go on reading:
      begot by boredom out of greed.
+     behind deceit or double-dealing?)
      behind deceit or double-dealing?)
      behind her followed wildly dancing;
      behind the door the clash of glasses
@@ -1982,11 +2038,13 @@
      blessed are daytime's care and cark,
      Blest he who in his youth was truly
      Blest he who's left the hurly-burly
+     Blest he who's left the hurly-burly
      blest is the advent of the dark!
      blest the poor lover who reads out
      blest... though perhaps her fancy's caught
      blinded to everything about
      ``Bliss was so near, so altogether
+     ``Bliss was so near, so altogether
      blooms when there's nothing else to do.
      bludgeon the sense; it faints and whirls.
      blue smoke of chimneys goes aloft,
@@ -2043,6 +2101,7 @@
      But friendship, as between our heroes,
      but from her shaggy-liveried ranger
      but from our friends, good Lord protect us!
+     But from the hero of my tale,
      But from the hero of my tale,
      But God, how deadly dull to sample
      But go he won't: for him, a letter
@@ -2075,6 +2134,7 @@
      but it's the first time you'll have known it,
      But it's the talent for concealing
      But it was passion that preempted
+     but I've become another's wife --
      but I've become another's wife --
      but I've not got the least intention
      ``But I was simply not intended
@@ -2098,6 +2158,7 @@
      But, now I've praised the queens of fashion,
      but now I've rather lost the art.
      but now my brain is darkened, Tanya:
+     But now -- oh God! -- the thought of you,
      But now -- oh God! -- the thought of you,
      But now our roads are bad, the ages
      but now, thank God, you're well and steady,
@@ -2106,6 +2167,7 @@
      But now they're near. Already gleaming
      But now Vladimir's doubts are still:
      But now! what brings you to my feet?
+     But now! what brings you to my feet?
      but, nurse, you see... Oh, don't refuse...''
      but Olga would have never read!
      But onward, onward with my story!
@@ -2117,6 +2179,7 @@
      but she (for women, that's not new)
      But she refuses to perceive him,
      But she who modelled for the sketching
+     But she who modelled for the sketching
      But soft! You hear? A scowling critic,
      ``But so it is: I'm in no state
      but soon the ways we trod were parted
@@ -2253,6 +2316,7 @@ by Pushkin.
     Chapter Three
     Chapter Two
      cheek upon hand she softly cries
+     cheek upon hand she softly cries
      cherries then we'll throw at him,
      cherries throw and raspberries
      Childe-Harold-like, Eugene's devoting
@@ -2302,6 +2366,7 @@ château was of a construction
      could it be she... or had he dreamed?
      could it be she, who just had turned
      Could it not be that by convention
+     Could it not be that by convention
      could not conceive how solemn Grimm13
      could see no harm in books; himself
      could they not give each other quarter
@@ -2421,6 +2486,7 @@ château was of a construction
      early tomorrow at the mill
      earnestly striving for persuasion
      earn for me the rewards of fame --
+     earn us the favour of the Court?
      earn us the favour of the Court?
      earth's rim grows light, and a forewarning
      eight rubbers; and by now eight times
@@ -2445,6 +2511,7 @@ ennui as he reflected
      Enough, my friends; it's all so-so.
      enough of my loquacious lyre:
      ``Enough, stand up. It's now for me
+     ``Enough, stand up. It's now for me
      Enough. The load is off my shoulder!
      enquired the lady of the hall:
      ensconced beside the window-pane.
@@ -2564,6 +2631,7 @@ ennui as he reflected
      for angry heirs, as one, to fall
      For cousins from afar, on meeting
      for dance, and din, and worldly ways,
+     for dreams, or journalistic battle,
      for dreams, or journalistic battle,
      forehead, he strummed, his vision flitted
      forests where my young age was passed
@@ -2577,6 +2645,7 @@ ennui as he reflected
      for grumbling, gossiping and swearing
      for happiness, I sought, and ranged
      for happiness -- that alien role.
+     for heart's delight, or fun, you took,
      for heart's delight, or fun, you took,
      for her improvement, a roman,
      for her instruction, and her breast
@@ -2588,12 +2657,14 @@ ennui as he reflected
      for 1808: his obligations
      for his old courses to be changed.
      for honour, a straightforward pride.
+     for honour, a straightforward pride.
      for hours alone; she walked and walked...
      for hours, with elbows on the table --
      for in our time, beyond dubiety,
      For it was custom that consoled her
      for jokes, and rows, and merry dreams!
      for long... for evermore. We've chased
+     for long... for evermore. We've chased
      for maybe fortune will have saved
      for men to see, still in the scope
      for me to glimpse this Phyllis ever
@@ -2619,6 +2690,7 @@ ennui as he reflected
      for the footlights, this fickle traitor
      for them by fathers who, as friends
      for them, in Butterweek5 the greaseful,
+     ``For then, Onegin, I was younger,
      ``For then, Onegin, I was younger,
      for the sublime, and for the passions
      for the two ladies at the gates.
@@ -2641,6 +2713,7 @@ ennui as he reflected
      for wood and tallow; all the range
      for you have, at this early date,
      for you, I think, the humble dimness
+     for you, I think, the humble dimness
      for your enlightenment to say
      found for its utterance that night.
      found that in laughter yawns could stifle:
@@ -2652,6 +2725,7 @@ ennui as he reflected
      freedom and peace, in substitution
      freedom's enthusiastic dream,
      freezes my blood... Yet all the same,
+     freezes my blood... Yet all the same,
      13 French encyclopedist.
      12 French poet (1755-1814). Author of Poésies Erotiques.
      frenzy which wrecks our lives for sound,
@@ -2710,6 +2784,7 @@ ennui as he reflected
      Full of obedience and demureness,
      galop, mazurka, waltz... Meanwhile
      garden, a modest home, the place
+     garden, a modest home, the place
      gave up the ancient Kremlin-keys:
      gay nature and its sparkling distance!
      gazes at all the scene around;
@@ -2728,6 +2803,7 @@ ennui as he reflected
      girls often change to their contentment
      girls' tears, their swooning, for Eugene
      give for a bookshelf, a neglected
+     give for a bookshelf, a neglected
      Give me a pen and give me paper,
      give me the homely hearth, and lend...''
      gives way to nature's normal passion:
@@ -2739,15 +2815,19 @@ ennui as he reflected
      glitters with hoar-frost all about.
      Godfearing folk will institute
      God grant that from this little book
+     God grant that from this little book
      God grant them years and years of health!
+     God grant you took at least a grain.
      God grant you took at least a grain.
      God's thunder burn you up! And when
      goes out into the courtyard spaces
      goes out of us when youth is dead.
      ``Go, nurse, and leave me here apart.
+     Goodbye, for now we make an end.
      Goodbye, for now we make an end.
      ``Goodbye, Onegin, time I went.''
      goodbye to you, my true ideal,
+     goodbye to you, my true ideal,
      good-looking, in the flower of age,
      good night; I swear I'll lie down soon.''
      go off to sleep quite hale and hearty,
@@ -2808,6 +2888,7 @@ ennui as he reflected
      has something low and unrefined.
      has taken on a silvery gleam;
      has voices that are more resounding,
+     has wished it an abrupt goodbye --
      has wished it an abrupt goodbye --
      hate, love, joy, sorrow -- every feeling,
      have been a fool; yet he'd a right,
@@ -2947,6 +3028,7 @@ ennui as he reflected
      her feelings were far more inclined --
      her fingers shake, she doesn't dare
      Her frightened cry brought running out
+     her full account of voiceless pain?
      her full account of voiceless pain?
      her girlhood games; in them he'd shared,
      her golden earrings off and whipping;
@@ -3063,6 +3145,7 @@ ennui as he reflected
      High rank, of course, and fashion's glasses,
      high time he should be on his way.
      him far enough through wild and waste.
+     him far enough through wild and waste.
      him prove it, writing after me.''
      himself just like a simple chap.
      his acts and words to suit our end?
@@ -3078,6 +3161,7 @@ ennui as he reflected
      his destiny) without a smile
      his dreams, while she whom they're about,
      his dull, sick look, his dumb reproach --
+     his dull, sick look, his dumb reproach --
      his elegies flow like a brook.
      his epigrams topped up with bile.
      His father died; and (as expected)
@@ -3088,10 +3172,12 @@ ennui as he reflected
      his gaze at Tatyana alone --
      His hair was fashionably curled,
      his head upon her shoulder... blaze
+     his heart was plunged! A sudden sound,
      his heart was plunged! A sudden sound,
      his hours to dreaming them away:
      his housekeeper and her department
      his humbly suppliant approach,
+     his humbly suppliant approach,
      his illness lends him courage and
      his itching verse, Monsieur Triquet
      his life till dawn's already making,
@@ -3189,9 +3275,11 @@ ennui as he reflected
      how well he knew the way to hurt --
      how well she'd studied her new role!
      human reaction, every speech
+     humbly I heard your lesson out?
      humbly I heard your lesson out?
      hunts cheeky flies, with swatter sweeping,
      Hurrah! let's start congratulating
+     Hurrah! let's start congratulating
      husband and father as my lot;
      5 Hussar and friend of Pushkin.
      Hussars on leave are racing hither
@@ -3203,6 +3291,7 @@ ennui as he reflected
         I
         I
      I acted thoughtlessly or not:
+     I acted thoughtlessly or not:
      ``I am in love; leave me alone.''
      ``I am in love,'' Tatyana's wailing
      I ask you, each and every poet!
@@ -3216,6 +3305,7 @@ ennui as he reflected
      I'd love you, but inside a day,
      I'd not have known you, therefore I
      I'd nothing to attract your humour...
+     I'd nothing to attract your humour...
      I do, I do. Well, where's he gone?''
      Idol mio or Benedetta,
      I don't know why, but for my friend
@@ -3230,6 +3320,7 @@ ennui as he reflected
      if her cross mood was at its worst --
      if I'd possessed the slightest reason
      if I had power to choose your fashion --
+     if I had power to choose your fashion --
      if I, like you, had been a bard.
      I find myself no longer equal;
      I find no sense; the truth is this,
@@ -3277,6 +3368,7 @@ ennui as he reflected
      I know too surely how it ends.
      I know to what malicious laughter
      I know your heart: it has a feeling
+     I know your heart: it has a feeling
      I lack the strength required to say
      I leave the verdict in your hand.
      (I like a friendly conversation,
@@ -3301,16 +3393,19 @@ ennui as he reflected
      I love my Tatyana too much!
      I love their feet -- though I confess
      I love you (what's the use to hide
+     I love you (what's the use to hide
      imagination, with such reason,
      Imagine it: quite on my own
      I make magnanimous confession,
      I'm altering my destination
      I married. I beseech you, go;
+     I married. I beseech you, go;
      I'm at your service to protect you;
      I'm blind to every apparition;
      I meant to paint, with Alban's8 glory,
      I'm good for nothing now, my sweet...
      I'm grateful now with all my heart.
+     I'm grateful now with all my heart.
      I'm grieving still, but no more tears,
      I might have said a word, and then
      I might have seen you, heard you speak
@@ -3319,6 +3414,7 @@ ennui as he reflected
      I'm near to sobbing, near to weeping!...''
      I'm old, my mind is blunted, Tanya;
      I move in the grand monde? that rank,
+     I move in the grand monde? that rank,
      impart such lessons as you please!
      impatient, hatred flaming high;
      impatiently on the mill-dam,
@@ -3336,6 +3432,7 @@ ennui as he reflected
      in a melodious, flute-like tone.
      in any picture of this kind:
      in a peaked cap, all dust and fluff, --
+     in a still stream that never dries.
      in a still stream that never dries.
      In backwoods, how d'you pass this season?
      in bed, a young man, stiff and chilled;
@@ -3373,6 +3470,7 @@ ennui as he reflected
      in flannel, and an old fur cap.
      in flowers of spring it's drinking dry:
      In French Onegin had perfected
+     in friendly gatherings where I read,
      in friendly gatherings where I read,
      in front of you, on every hand,
      in frosted bottle, for the poet
@@ -3383,6 +3481,7 @@ ennui as he reflected
      In heart's affairs, a sweet beginner,
      inherited from earlier days
      in her once more has come alive.
+     in her once more has come alive.
      in her own home. She never took
      in her torn heart -- a fickle gleam;
      in his defence, and smash it up;
@@ -3505,6 +3604,7 @@ in Russia among the common people.'' Pushkin's note.
      In winter, when for longer time
      in you a tender pulse was beating,
      in your calèche of foreign cast --
+     in your pursuit I've come to know it:
      in your pursuit I've come to know it:
      I only write like this, you know,
      I own it: tender Parny's12 rhyme
@@ -3530,6 +3630,7 @@ in Russia among the common people.'' Pushkin's note.
      is either the distrait Vampire,
      is finished, and I've looked it through
      is firmly cast. I don't know whether
+     is firmly cast. I don't know whether
      is forced to crucify himself,
      is graven on that face of stone.
      I shall set out on brand-new ways
@@ -3564,6 +3665,7 @@ in Russia among the common people.'' Pushkin's note.
      is this the riddle's missing clue?
      I still find Gallicism delicious
      is tinsel on a life I hate;
+     is tinsel on a life I hate;
      Istómina,11 thronged all around
      I suffered once from all the madness
      is where old master took up station,
@@ -3583,6 +3685,7 @@ it.
      I thank him without reservation,
      it held me captive; tit for tat,
      ``I think I'm happy.'' Time to go,
+ith no adornment on;
      I thought, she'll go this time, perhaps;
      it hurts, he laughs, and all in vain
      ``It is a friend I sing, a youthful
@@ -3665,6 +3768,7 @@ it.
      I was Onegin's friend that season.
      I weep, and pray for your protection..,
      ``I weep... In case there still should linger
+     ``I weep... In case there still should linger
      I would have chosen none but you
      I would have found a friend, another,
      I would have had the indiscretion
@@ -3687,6 +3791,7 @@ it.
      just as she'd always been, she tripped
      just as the Poet15 paints himself.
      just at this crisis of his gale,
+     just at this crisis of his gale,
      Just before dinner, from his labours
      Just facing Tanya's where they're sitting;
      ``Just half a glass more... that will do...
@@ -3709,6 +3814,7 @@ it.
         L
         L
         L
+        L
      lacing her stays up very tightly;
      ladies at the fireside confer,
      Ladies came over, crossed to meet her,
@@ -3770,6 +3876,7 @@ it.
         LI
         LI
         LI
+        LI
      lickspittles who adore their crawling,
      lies bright, and vast beyond perceiving;
      lies in a coverlet that ripples
@@ -3822,6 +3929,7 @@ it.
      looked on a river: far away
      look here, as a provincial miss
      ``Look quickly to the left, d'you hear?''
+     looks at him with a steady gaze,
      looks at him with a steady gaze,
      look through the pane, and squash the flies.
      ``Look to the left? where? what's the matter?''
@@ -3847,6 +3955,7 @@ it.
         LX
      Madame de Staël, Bichat,13 Tissot,14
      made all fates look the same... and so
+     made all fates look the same... and so
      made London's dandy his professor.
      made over to them his whole lot,
      madman, can you forget their print?
@@ -3912,6 +4021,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
           Moscow, loved daughter of Russia,
      Moscow's the place, the marriage-fair!
      mother implored me; my sad station
+     mother implored me; my sad station
      motionless as one soundly sleeping
      mountains are piled on every carriage,
      mountains will part; below the deep,
@@ -3940,8 +4050,10 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      ``My goodness, how the years do fly!''
      My heart awaits you: you can turn it
      my hours in fear and bitter crying.
+     my house, my evenings, all that state --
      my house, my evenings, all that state --
      my husband for his wounds in battle
+     my husband for his wounds in battle
      my inept pupil, at that hour,
      my last poor lepton for a sup!
      my life in a domestic plot;
@@ -3961,6 +4073,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      ``My sweet, my dearest heart, I'm old,
      (my tale's beginning here repeats);
      my task, so vivid and so serious
+     my task, so vivid and so serious
      my tedious taste for feeling free.
      my thoughtless pen has stopped designing,
      my tongue kept drawing from the heart --
@@ -4066,6 +4179,7 @@ note.
      nothing could alter or could tire
      nothing more lovable than he.
      nothing was barred beyond discussion --
+     nothing you did gave cause for blame:
      nothing you did gave cause for blame:
      no time to pick it up -- she's dying
      not once a day a thought will quiver,
@@ -4125,6 +4239,7 @@ note.
      O Adrian waves, my invocation;
      Oak-floored, and simple as a stable:
      objective of his thoughts and joys:
+     oblivion of life's stormy ways,
      oblivion of life's stormy ways,
      O Brenta, I'll see you in dream;
      odd volumes from the devil's shelf,
@@ -4159,6 +4274,7 @@ note.
      of far-away Onegin's name.
      of fate, and life, each in its turn
      of finishing its book, but early
+     of finishing its book, but early
      of five more steps they went, slow-gaited,
      of goblets, tall and slender pretties;
      of gossip, and set comment humming
@@ -4191,8 +4307,10 @@ note.
      of leaves that autumn killed for good,
      Of Lensky's fate they said no more --
      of life's repast betimes, nor sought
+     of life's repast betimes, nor sought
      of light that flowering fields reflected:
      of listening like a judge-supreme
+     of lovelorn girls was nothing new?
      of lovelorn girls was nothing new?
      of love's anxiety. Blessed is he
      of love so timorous and gentle.
@@ -4212,6 +4330,7 @@ note.
      of oligarchical converse,
      of one sole thought holds him in keeping
      of other's thought -- a splendid goal;
+     of our first meeting face to face,
      of our first meeting face to face,
      of passion's out, and its whole manner
      of perfect bliss in you. Enough!
@@ -4246,8 +4365,10 @@ note.
      of swooning, Tanya nearly dies;
      of tales of girls, and ghosts, and lore:
      of Tanya's image... Ah, how great
+     of Tanya's image... Ah, how great
      of tears will cloud her tender gaze.
      of tempests, in what raging ocean
+     of tempests, in what raging ocean
      Often of course you'll have inspected
      Often she halts against her will,
      of that old duellistic fox,
@@ -4261,6 +4382,7 @@ note.
      of the whole world, her nurse alone,
      of this our novel we reported,
      Of those who heard my opening pages
+     Of those who heard my opening pages
      of time between the wolf and dog.)
      of traveller's tedium at its peak:
      of trumpet, dagger, mask and sword,
@@ -4272,6 +4394,7 @@ note.
      of wandering tribesmen; while the ravage
      of whispering woods where my Eugene,
      of wild repentance and devotion
+     of wild repentance and devotion
      of work made him feel sick, and still
      of your slim prints! though this be treason
      of youth, so tender, so intense?
@@ -4326,6 +4449,7 @@ note.
      Onegin comes, and makes excuses;
      Onegin, drenched with sudden chill,
      Onegin, d'you recall the day
+     Onegin, d'you recall the day
      Onegin had no word to say;
      Onegin has outrun us all.
      Onegin knew enough to savour
@@ -4340,6 +4464,7 @@ note.
      Onegin still is slumbering deeply.
      Onegin's waiting on the ground.''
      Onegin swiftly came to know
+     Onegin too -- and there to see,
      Onegin too -- and there to see,
      Onegin too. ``Good Lord, at last!''
      Onegin turns, and with a shiver
@@ -4397,6 +4522,7 @@ note.
      On these, with something like obsession,
      on this unstable life, my friends!
      On this we'll part; goodbye again!
+     On this we'll part; goodbye again!
      onto the porch, and fussed about
      on tragedy; but it's no joke,
      on unknown ladies in the tiers;
@@ -4437,6 +4563,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      Or, in your lonely homestead, moping,
      or joined us poets. His conversion
      or just grammatical mistakes,
+     or just grammatical mistakes,
      or kiss the border of her dress.
      or languid bosoms; and no visit
      or letters in a young girl's hand.
@@ -4469,6 +4596,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      Our evanescent northern summer
      our friend Katénin8 brought to bear
      our hapless Tanya! An emotion
+     our hapless Tanya! An emotion
      our joy in you is warmly taken.
      our kin are folk whom by profession
      our lives were flat, and what had fired
@@ -4477,10 +4605,12 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      our Mother Eve: we're never falling
      our native speech had never sprung
      ourselves on our landfall. It's true,
+     ourselves on our landfall. It's true,
      ours was no Grandison -- not he.
      our terror is their consolation.
      our troikas effortlessly dashing,
      our vessel's long been overdue.
+     our vessel's long been overdue.
      out of the hand of that same bard:
      out of this world will crowd us too.
      outside and in they star the night;
@@ -4618,9 +4748,11 @@ Pushkin's poem The Fountain of Bakhchisarai.
      ran through the fields, sheer panic fright
      rapture was just two weeks ahead;
      reader, by painting you a scene
+     Reader, I wish that, as we parted --
      Reader, I wish that, as we parted --
      reader, or where you've shone and glittered!
      Reader, the elder sister now
+     reader, we must be separating,
      reader, we must be separating,
      Reader, whatever fate's direction,
      reader, you ask, and I'll expound --
@@ -4648,6 +4780,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      replies: ``We might as well.'' They walk
      resigned disposal of your fate.
      resigned himself to prison's ties,
+     respect, and mercy for my dreaming.
      respect, and mercy for my dreaming.
 results. See note 2 to Chapter Three.
      retired, as he, from fashion's stream,
@@ -4777,6 +4910,7 @@ see also Chapter Seven, XLIX.
      She hates a friendly voice's sound,
      She hesitates, and doubts beset her:
      she holds a letter up, and leaning
+     she holds a letter up, and leaning
      ``She knows you?'' ``Why, we lived next door.''
      she lacked her sister's beauty, lacked
      She'll not see him, her obligation
@@ -4802,6 +4936,7 @@ see also Chapter Seven, XLIX.
      She's dressed since dawn, dead pale; debating,
      She's dropped her sash's silken billow;
      she sees it all. The simple maiden,
+     she sees it all. The simple maiden,
      She's fallen in the snow -- alertly
      She's here, she spreads abroad; she stipples
      she sighed, and in a trance coopted
@@ -4832,6 +4967,7 @@ see also Chapter Seven, XLIX.
      ``She was the one who looked as still
      she was unhurried, unobtrusive,
      She went -- and Eugene, all emotion,
+     She went -- and Eugene, all emotion,
      she went inside the empty shell
      she won't inhale the powdered rime,
      she wrote in French... what a confession!
@@ -4862,6 +4998,7 @@ see also Chapter Seven, XLIX.
      since I stopped sinning years ago.
      Since then Martin Zadéka's spell
      since then my heart was wrenched aside;
+     since, through the mist that dreams arise on,
      since, through the mist that dreams arise on,
      Since when is this?'' ``Two years or more.''
      sing about something else at last!''
@@ -4907,6 +5044,7 @@ see also Chapter Seven, XLIX.
      So, like Childe Harold, glum, unpleasing,
      solitude, stillness and the night,
      so long as they're employed in song:
+     ``some are far distant, some are dead''.
      ``some are far distant, some are dead''.
      Some days he's still in bed, and drowses,
      some disagreeable remarks.
@@ -4971,6 +5109,7 @@ see also Chapter Seven, XLIX.
      squeezes her hand -- and brings to flower
      stalking the momentary weakness,
      stands in dismay and indecision.
+     stands over my poor nurse's tomb.
      stands over my poor nurse's tomb.
      6 Stanza discarded by Pushkin, also stanza XXXVIII.
      1 Stanza left incomplete by Pushkin.
@@ -4990,6 +5129,7 @@ see also Chapter Seven, XLIX.
      Still blazing with resentment's fuel,
      still captivated his young soul.
      still coughing, hissing, clapping, champing;
+     still dim, through crystal's magic glass,
      still dim, through crystal's magic glass,
      still eats and drinks enough for two.
      still everywhere the lamps are bright;
@@ -5007,6 +5147,7 @@ see also Chapter Seven, XLIX.
      stirred at your gaze, so strange, so gleaming,
      stood in the door, cherubic, mute,
      stood thunder-struck. In what wild round
+     stood thunder-struck. In what wild round
      straightened his wig, and asked her name.
      straight to his stall, then turns his glasses
      Straight up the chimney, pipes were smoking.
@@ -5044,6 +5185,7 @@ see also Chapter Seven, XLIX.
      sweet old tradition was preserved:
      3  ``Sweet-sounding Greek names like  Agathon... etc., are only current
      sweet talk with friends. How many days
+     sweet talk with friends. How many days
      sweet words by which her pain was banned --
      swiftly decayed beyond recall
      take any novel, clearly traced
@@ -5082,6 +5224,7 @@ see also Chapter Seven, XLIX.
      Tatyana in a deep emotion
      Tatyana in low-cut attire
      Tatyana! it's addressed... to whom?
+     Tatyana leaves Onegin kneeling,
      Tatyana leaves Onegin kneeling,
      Tatyana listened with vexation
      Tatyana, lonely heroine,
@@ -5098,6 +5241,7 @@ see also Chapter Seven, XLIX.
      Tatyana's haunted by her vision,
      Tatyana's heart is rent in two.
      Tatyana's here, you know I've brought her...''
+     Tatyana's husband, now appearing...
      Tatyana's husband, now appearing...
      Tatyana simply lay in bed,
      Tatyana, sleepless in the dark,
@@ -5123,12 +5267,14 @@ see also Chapter Seven, XLIX.
      thank you indeed. Alike in sorrow
      than most. Evgeny, though he knew
      than this humiliating passion
+     than this humiliating passion
      than what our sorrowing rhymesters do?
      that alien scene must I now turn
      that all of Russia can't contribute
      that ardent youth entirely lacks;
      that, artless, and without concealing,
      that corps of social legislation --
+     that could sustain it? Only grimness;
      that could sustain it? Only grimness;
      that even so my wretched style
      that fell, and then began to shiver,
@@ -5136,6 +5282,7 @@ see also Chapter Seven, XLIX.
      that fills him and in which he lives.
      that fired his soul, to burn the same;
      that, for all this, my shame's report
+     that, for all this, my shame's report
      that from the backdoor he'd be leaving
      that generations of new beauties,
      (that half-pay archivist); and bounding
@@ -5257,6 +5404,7 @@ see also Chapter Seven, XLIX.
      The city's early sounds awake her;
      the clamorous honking geese began
      the climacteric of our life,
+     the clink of rowels, met his hearing;
      the clink of rowels, met his hearing;
      The clock of doom had struck as fated;
      the coach has reached its destination;
@@ -5326,6 +5474,7 @@ see also Chapter Seven, XLIX.
      the girl's attentive eyes are bent.
      the girl's pale charms, her loosened hair,
      the girls sing out the ancient rhyme:
+     the glare, the fumes in which I live,
      the glare, the fumes in which I live,
      the grand barouche is on its way.
      the grand monde finds it out of place.
@@ -5469,7 +5618,9 @@ the Neva.''
      the nightly luminaries climb.
      Then in return for all this twaddle,
      ``Then, in the backwoods, far from rumour
+     ``Then, in the backwoods, far from rumour
      then in the study's quiet setting,
+     then know that your reproving finger,
      then know that your reproving finger,
      then later slyly he'd revile them
      then Lensky moved his pawn, and took,
@@ -5483,6 +5634,7 @@ the Neva.''
      Then, plunged in the housekeeper's day,
      then quickly something changed all this:
      then quietly at last says she:
+     then quietly at last says she:
      ``Then send your grandson with this letter
      then, stepping nearer, Eugene said:
      then sudden fear attacked Tatyana...
@@ -5617,6 +5769,7 @@ the relative merits of the classic ode and the romantic elegy.
      the tighter we can stretch above them
      the time to go has long since passed
      the tolerant Evgeny heard --
+     the toll of those borne off by fate!
      the toll of those borne off by fate!
      The tomcat, mannered and affected,
      the tongue of love and of Petrarch.
@@ -5690,6 +5843,7 @@ the relative merits of the classic ode and the romantic elegy.
      They take her too to the Assembly.
      they talk of her, of how and whether:
      they took offence at this, and broke
+     They've missed Eugene's completed etching.
      They've missed Eugene's completed etching.
      they've moved around and been reseated;
      they were her only food... and so
@@ -5705,10 +5859,12 @@ the relative merits of the classic ode and the romantic elegy.
      this Grandison of hers was splendid,
      ``this is the one!'' Ah, ever stronger,
      ``This is Vladimir Lensky's grave
+     this modish whirl, this social story,
      this modish whirl, this social story,
      4  This Russianized version of  the Greek Agatho  is  ``elephantine and
      this soul that glowed with virgin fire.
      ``This time I think you've been reduced to
+     this very day I'd gladly give,
      this very day I'd gladly give,
      this was our heroes' conversation
      this was the science of that passion
@@ -5739,6 +5895,7 @@ the relative merits of the classic ode and the romantic elegy.
      three pairs of handsome ones -- yet there
      Three whole hours, at the least accounting,
      threw Eugene at her feet -- she stirred,
+     threw Eugene at her feet -- she stirred,
      thrives to this moment, in a station
      Thronged by adorers, I've detected
      through baseness of the soul that he,
@@ -5765,6 +5922,7 @@ the relative merits of the classic ode and the romantic elegy.
      time was when morning's breeze was swaying
      to aim, at steady, even pace
      to all that's trivial and inane?
+     to all that's trivial and inane?
      to all the most adored actrices,
      to all this tattle, yet at heart
      to ask of you that you transcend
@@ -5791,11 +5949,13 @@ to be mentioned in so offhand a way''.
      to crack between them; for a while
      Today a mental fog enwraps us,
      ``Today he promised he'd be here,''
+     Today it's turn and turn about.
      Today it's turn and turn about.
      Today... the sad memorial's lonely,
      to demonstrate some signs of reason:
      to do them all is easy game.
      to drain its beaker down, nor thought
+     to drain its beaker down, nor thought
      to drain, on credit, bottles three.
      to draw a breath, around her staring
      to dreaming given up unduly,
@@ -5822,6 +5982,7 @@ to be mentioned in so offhand a way''.
      to gentlemen on every side
      together they arrived, and none
      to give you honest explanation.
+     to give you honest explanation.
      to happen long ago, dear readers,
      To harmless idleness devoted,
      to hear him howl: ``that's me!'' You'll get
@@ -5857,9 +6018,11 @@ To live, it hurries, and to feel it hastes.
      3  ``"Tomcat calls  Kit"  -- a song  foretelling marriage.''  Pushkin's
      to meet a black monk, or if crossing
      to meet his thirsty lips... What daze,
+     to meet his thirsty lips... What daze,
      to meet the unhappy poet, skipped
      to me her best in-quarto tome,
      ``To me, Onegin, all this glory
+     ``To me, Onegin, all this glory
      to me so simply, with the fires
      To me, unsmiling lips bring terror,
      tomorrow just like yesterday.
@@ -6021,10 +6184,10 @@ very briefly -- to a  controversy between different literary  cliques  about
         VI
         VI
         VII
+        VII
+        VII
+        VII
 1) VII
-        VII
-        VII
-        VII
         VII
         VII
         VII
@@ -6113,12 +6276,15 @@ very briefly -- to a  controversy between different literary  cliques  about
      What breasts! What soul!... We'll go one day
      what came from this unlooked-for meeting;
      what can one do? as said above,
+     What cause has won me your attention?
      What cause has won me your attention?
      What do I want? what am I after,
      what dream accounts for her distraction?
+     what dream accounts for her distraction?
      What else? Quite drunk with love's illusion,
      Whatever for caprice of spending
      Whatever in this rough confection
+     Whatever in this rough confection
      whatever you may need, just call...
      What fate is my tomorrow brewing?
      what feelings would assume control
@@ -6146,14 +6312,19 @@ what he can do.'' Nabokov.
      ``What of them, Tanya? I was able,
      what play will he present this week?
      What power enslaves you, with your seeming
+     What power enslaves you, with your seeming
      What scorn I see in the expression
+     what's in them? All this loud parading,
      what's in them? All this loud parading,
      what's more, I loved you; but my hunger,
+     what's more, I loved you; but my hunger,
      What sort of roses, in your notion,
      what store of riches it imparts!
      what traps he'd set him, with what malice
      What trifling could be more complete?
+     What trifling could be more complete?
      what was it in your heart it found
+     what was it in your heart it found
      what wings our first successes gave!
      when Bréguet's chime is heard proclaiming
      When comes my moment to untether?
@@ -6166,6 +6337,7 @@ what he can do.'' Nabokov.
      When I defected from their union
      when, in pale sky, the stars' procession
      when in the park, in the allée
+     when in the park, in the allée
      when little notes come on a tray.
      when night patrol's a perilous calling;
      when not quite eighteen years of age.
@@ -6193,6 +6365,7 @@ what he can do.'' Nabokov.
      where dwelt this child of inspiration,
      where every day a bloodstained shade
      where fate had fixed our confrontation,
+     where fate had fixed our confrontation,
      where flows a little glittering brook,
      where folded arms are tightly pressed.
      where her security's complete.
@@ -6248,12 +6421,15 @@ what he can do.'' Nabokov.
      who'd sit, and at the end of play
      who early died as die the brave'' --
      who else? -- the hero of our novel!
+     whoever you may be, a friend,
      whoever you may be, a friend,
      who, in good time, would calmly get
      Who in that flash could not have reckoned
+     Who in that flash could not have reckoned
      who in the country spends her summer,
      who in the dark came flashing through
      Who in the princess for that second
+     Who in the princess for that second
      Who is there who will truly measure
      who late at night are whirled away
      who'll clap an entrechat, or scoff
@@ -6271,6 +6447,7 @@ what he can do.'' Nabokov.
      ``Whose glance, provoking inspiration,
      whose heart experience has cooled
      whose heart on dreams was wont to thrive,
+     whose heart on dreams was wont to thrive,
      whose kindly hand will ruffle down
      whose memory will preserve for me
      whose serfs are miserably thin;
@@ -6292,6 +6469,7 @@ what he can do.'' Nabokov.
      ``why, Olga's younger, and she's bedded.
      Why, pretty one, you're up already!
      ``Why, Tanya, what...?'' ``All's dull and trifling.
+     Why then do you pursue me now?
      Why then do you pursue me now?
      wild as a forest deer, and fearful,
      Wildly the fearful laughter pealed;
@@ -6381,6 +6559,7 @@ window-panes, departed  female owner (the soul being  feminine  in Russian),
      without a word Tatyana leant
      without preliminary feeler
      Without romance, or false insistence,
+     without surprise or rage... his laden,
      without surprise or rage... his laden,
      with parks and mansions, open up.
      with passion and with shrewd obliqueness
@@ -6429,6 +6608,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      Worse luck, Larina crawled; the employment
      would be allied to him by fate;
      would bless the form his fortune took.
+     would cause widespread remark and tattle,
      would cause widespread remark and tattle,
      would fill Tatyana from afar
      would have been all that we required!
@@ -6438,6 +6618,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      would launch into self-sacrifice;
      would leave her dithering and tossing.
      would not have recognized again
+     would not have recognized again
      would on those evenings guess the fate
      would say goodbye and drive away,
      would settle, on the morrow morning,
@@ -6503,47 +6684,56 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
         XLI
         XLI
         XLI
+        XLI
         XLII
         XLII
         XLII
         XLII
         XLII
+        XLII
         XLIII
         XLIII
         XLIII
         XLIII
         XLIII
         XLIII7
+        XLIII
         XLIV
         XLIV
         XLIV
         XLIV
         XLIV
         XLIV
+        XLIV
         XLIX
         XLIX
         XLIX
         XLIX
+        XLIX
         XLV
         XLV
         XLV
         XLV
         XLV
         XLV
+        XLV
         XLVI
         XLVI
         XLVI
         XLVI
         XLVI
+        XLVI
         XLVII
         XLVII
         XLVII
         XLVII
         XLVII
+        XLVII
         XLVIII
         XLVIII
         XLVIII
         XLVIII
+        XLVIII
         XV
         XV
         XV
@@ -6713,24 +6903,24 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
         XXXVI
         XXXVI
         XXXVI
-        XXXVI6
         XXXVI
+        XXXVI6
+        XXXVII
+        XXXVII
+        XXXVII
+        XXXVII
         XXXVII
         XXXVII
         XXXVII
         < XXXVII7
-        XXXVII
-        XXXVII
-        XXXVII
-        XXXVII
         XXXVIII
         XXXVIII
         XXXVIII
         XXXVIII
         XXXVIII
         XXXVIII
-        (XXXVIII) XXXIX
         (XXXVIII,2) XXXIX
+        (XXXVIII) XXXIX
      years back, to call up many a fable;
      yes, even there its triumph grows.
      yes, focus on them your lorgnette,
@@ -6753,6 +6943,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      Yet Tanya's note made its impression
      Yet the mazurka keeps today
      yet, truthfully and not in chaff,
+     you acted well, that dread occasion,
      you acted well, that dread occasion,
      you age, and life's just grief and sadness...''
      you called there twice, and since then took
@@ -6783,6 +6974,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      Young ladies jump for future blisses...
      young poet, be for ever blest!''
      young Tanya first appeared to me,
+     young Tanya first appeared to me,
      young traitresses by the platoon,
      you object of my guileless ditties!
      ``You pile one eclogue on another!
@@ -6790,6 +6982,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      your battles, lawless and atrocious,
      your chorus, is it dead for ever?
      your cold discourse, were less unkind --
+     your cold discourse, were less unkind --
      Your curiosity is burning
      your dashing one, is she surviving?''
      you're all in fever... heavens above.''
@@ -6806,6 +6999,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      your heels will squash the ladies' toes! >
      your heroes, raging and ferocious,
      Your horse, blunt-shoed and all unwary,
+     your icy look, your stern dissuasion,
      your icy look, your stern dissuasion,
      your loved one, honourable reader!
      your matchlessness, to seek to capture
@@ -6815,19 +7009,23 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      your presence aches, and in my blood!
      your pride, some answer, or in truth
      yourself too long from social life.''
+     your Tanya's image in your mind,
      your Tanya's image in your mind,
      your tears would flow -- but your emotion,
      your words, and in my soul to explore
      your Zeus, your Cypris, your whole band
      you see the two in uniform...
      you see, with tears and incantation
+     you see, with tears and incantation
      you see your fated tempter stand.
      you sought -- tumultuous recollection,
+     you sought -- tumultuous recollection,
      youthful, who ripened in his time,
      youth is a fever; we must spare
      youth's choice, the flower of French cuisine:
      youth which has nothing to regret,
      you too have seen on Neva's brink.
+     you took an honourable part --
      you took an honourable part --
      You too, mamas, I pray attend it,
      You too, prime beauties in your flower
@@ -7656,48 +7854,34 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
 
 
 
-     {233}
-     {232}
-     {35}
-     {36}
-     {37}
-     {38}
-     {39}
-     {40}
-     {41}
-     {42}
-     {43}
-     {44}
-     {45}
-     {46}
-     {47}
-     {48}
-     {49}
-     {50}
-     {51}
-     {52}
-     {53}
-     {54}
-     {55}
-     {56}
-     {57}
-     {58}
-     {59}
-     {60}
-     {61}
-     {62}
-     {63}
-     {64}
-     {65}
-     {66}
-     {67}
-     {68}
-     {69}
-     {70}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      {71}
      {72}
      {73}
+     {39}
      {74}
+     {35}
      {75}
      {76}
      {77}
@@ -7708,14 +7892,19 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {80}
      {81}
      {82}
+     {40}
      {83}
+     {70}
+     {69}
      {84}
+     {68}
      {85}
      {86}
      {87}
      {88}
      {89}
      {90}
+     {41}
      {91}
      {92}
      {93}
@@ -7725,6 +7914,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {97}
      {98}
      {99}
+     {42}
      {100}
      {101}
      {102}
@@ -7734,6 +7924,8 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {106}
      {107}
      {108}
+     {67}
+     {43}
      {109}
      {110}
      {111}
@@ -7743,6 +7935,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {115}
      {116}
      {117}
+     {44}
      {118}
      {119}
      {120}
@@ -7751,41 +7944,49 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {123}
      {124}
      {125}
+     {45}
      {126}
      {127}
      {128}
      {129}
      {130}
      {131}
+     {230}
      {132}
      {133}
+     {46}
      {134}
      {135}
      {136}
      {137}
-     {231}
+     {231}
      {138}
      {139}
      {140}
      {141}
      {142}
+     {47}
      {143}
      {144}
      {145}
-     {146}
+     {66}
      {147}
      {148}
      {149}
      {150}
      {151}
+     {48}
+     {36}
      {152}
         ... ...
      {153}
      {154}
+     {65}
      {155}
      {156}
      {157}
      {158}
+     {49}
      {159}
      {160}
      {161}
@@ -7795,6 +7996,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {165}
      {166}
      {167}
+     {50}
      {168}
      {169}
      {170}
@@ -7804,13 +8006,16 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {174}
      {175}
      {176}
+     {51}
      {177}
+     {38}
      {178}
      {179}
      {180}
      {181}
      {182}
      {183}
+     {52}
      {184}
      {185}
      {186}
@@ -7820,6 +8025,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {190}
      {191}
      {192}
+     {53}
      {193}
      {194}
      {195}
@@ -7829,15 +8035,18 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      {199}
      {200}
      {201}
+     {54}
      {202}
      {203}
      {204}
+     {64}
      {205}
         ... ...
      {206}
      {207}
      {208}
      {209}
+     {55}
      {210}
      {211}
      {212}
@@ -7848,18 +8057,36 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
         ... ...
      {217}
      {218}
+     {56}
      {219}
      {220}
      {221}
      {222}
      {223}
+     {37}
      {224}
      {225}
      {226}
      {227}
+     {57}
      {228}
      {229}
      {230}
+     {231}
+     {232}
+     {233}
+     {227}
+     {63}
+     {62}
+     {61}
+     {60}
+     {228}
+     {59}
+     {232}
+     {58}
+     {146}
+     {229}
+     {233}
 --------
 --------
 --------
@@ -7908,6 +8135,7 @@ the Neva.''
      the nightly luminaries climb.
      and rest his dear bones in the tomb,
      presses its forebears to the tomb.
+     stands over my poor nurse's tomb.
      stands over my poor nurse's tomb.
      down in our damp earth-mother's womb!''
      but I, in love, was dull and dumb.
@@ -7938,6 +8166,7 @@ the Neva.''
      Now, Lensky, would it be so bad
      The horses, as they sense the dead,
      to life grew colder than the dead.
+     ``some are far distant, some are dead''.
      ``some are far distant, some are dead''.
      of entertaining the half-dead:
      they rise and ripen and fall dead:
@@ -7961,6 +8190,7 @@ the Neva.''
      and kept quite silent while she read.
      can disavow that. I have read
      in friendly gatherings where I read,
+     in friendly gatherings where I read,
      which with a blush he leaves unread.
      on which a carpet has been spread,
      before the fire a table's spread;
@@ -8125,6 +8355,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      for whom her passion has been planned
      don't let me stray in paths unplanned.''
      and pledged to you, and firmly planned:
+     Who in that flash could not have reckoned
      Who in that flash could not have reckoned
      no dream. You'd scarce arrived, I reckoned
      I had most surely never reckoned
@@ -8182,6 +8413,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      in quiet flood. A beetle whirred.
      Beyond the stream there smoked and stirred
      threw Eugene at her feet -- she stirred,
+     threw Eugene at her feet -- she stirred,
      no sound by which her soul is stirred.
      on Eugene, he was deeply stirred:
      it was that he'd been truly stirred,
@@ -8193,6 +8425,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
      Like convicts in a dream released
      hold half the world still unreleased,
      for long... for evermore. We've chased
+     for long... for evermore. We've chased
      the earth for him grew dumb and closed?...
      in warmer airs was half dispersed.
      when, on the plain, green herbs are massed,
@@ -8266,6 +8499,7 @@ original  metaphor  of the deserted house, closed  inner shutters,  whitened
 ennui as he reflected
      of light that flowering fields reflected:
      give for a bookshelf, a neglected
+     give for a bookshelf, a neglected
      a park, enormous and neglected,
      Whenever nyanya had collected
      before Onegin there collected
@@ -8278,6 +8512,7 @@ ennui as he reflected
      they find her somewhat unexpected,
      His father died; and (as expected)
      and the churchyard where, new-erected,
+     and the churchyard where, new-erected,
      and my whole life has been directed
      singing in chorus as directed
      But my Eugene that night directed
@@ -8332,11 +8567,13 @@ ennui as he reflected
      to the hero that she'd adopted.
      she sighed, and in a trance coopted
      a foe -- our mood should be warm-hearted.
+     a foe -- our mood should be warm-hearted.
      ``Poor Yorick,'' said he, broken-hearted:
      Outside the gate Tatyana parted
      sadly he mourned for the departed.
      treaties of nations long departed,
      but soon the ways we trod were parted
+     Reader, I wish that, as we parted --
      Reader, I wish that, as we parted --
      Between them, every topic started
      at earliest morning out she started,
@@ -8481,6 +8718,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      his choice could shock or might offend;
      you know I'm hard to comprehend...
      whoever you may be, a friend,
+     whoever you may be, a friend,
      ``All right, I'll come then...'' ``What a friend!''
      But don't be cross, my darling friend,
      Bordeaux, you're like a faithful friend,
@@ -8497,6 +8735,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      in grief that nothing else could mend;
      Martin Zadéka fails to mend;
      Goodbye, for now we make an end.
+     Goodbye, for now we make an end.
      On whom alone can we depend?
      my father blessed me. So I'd spend
      his acts and words to suit our end?
@@ -8511,6 +8750,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      custom is despot of mankind.
      cold, pure as ice, and as unkind,
      your cold discourse, were less unkind --
+     your cold discourse, were less unkind --
      in any picture of this kind:
      and useful goods of every kind.
      someone towards whose heart and mind
@@ -8521,12 +8761,15 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      rewards the music of your mind
      that poison brew; and in your mind
      your Tanya's image in your mind,
+     your Tanya's image in your mind,
      caricatured them in his mind.
      she doesn't see, or doesn't mind;
      to know you, swooned, and in a second
+     Who in the princess for that second
      Who in the princess for that second
      Evgeny echoed him: ``My second?
      and also prettier, I'll be bound,
+     and also prettier, I'll be bound,
      ``Get up: it's gone six! I'll be bound,
      pursue his love -- and at one bound
      it stirs her drooping soul to bound
@@ -8536,6 +8779,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      was quite beyond his wit, we found.
      at least her tone is sometimes found
      what was it in your heart it found
+     what was it in your heart it found
      of mind got clarity new-found;
      will reach, and past the tomb's compound
      reader, you ask, and I'll expound --
@@ -8546,6 +8790,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      spread out its shadow all around --
      as it assembles them around;
      stood thunder-struck. In what wild round
+     stood thunder-struck. In what wild round
      Onegin's waiting on the ground.''
      let fall his pistol on the ground.
      he's left sad footprints on the ground.
@@ -8563,6 +8808,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      emotion, thought, and magic sound;
      at noontime does his horn resound
      and then a drozhky's clopping sound
+     his heart was plunged! A sudden sound,
      his heart was plunged! A sudden sound,
      more tender than it used to sound.
      hymns of the ages never sound.
@@ -8627,6 +8873,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      acute and subtle -- in a word
      and pale, and fade without a word!
      and looked at him without a word,
+     and looked at him without a word,
      I really dote upon the word:
      Arrived apace, he gives the word
      No, she's already pledged her word
@@ -8653,6 +8900,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      and brains, and an attractive face.
      swam on the river's dreaming face,
      into the allée, face to face,
+     of our first meeting face to face,
      of our first meeting face to face,
      the men confront them, face to face:
      did any glasses seek her face,
@@ -8660,6 +8908,7 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      caressing breath has fanned my face
      play on the window's frosted lace;
      garden, a modest home, the place
+     garden, a modest home, the place
      but in his songs kept pride of place
      a restless urge for change of place
      the grand monde finds it out of place.
@@ -8756,12 +9005,14 @@ means of  which Pushkin mimics  poor Lensky's own style... but  the rich and
      and in a singsong voice confide
      the inmost thoughts that girls can hide.
      I love you (what's the use to hide
+     I love you (what's the use to hide
      and felt himself love's invalide.
      past the grand ladies, see her glide;
      by two small oaktrees in a ride.
      beloved friend, thou art my bride!''
      ranges, Lenora2-like, she'd ride
      for honour, a straightforward pride.
+     for honour, a straightforward pride.
      < amongst the soulless men of pride,
      since then my heart was wrenched aside;
      barrels, and then to drive aside
@@ -8804,6 +9055,7 @@ results. See note 2 to Chapter Three.
      ``The house, the park... I'll go and see!''
      light dreams for new ones... so we see
      perhaps, though Phoebus warns, I'll see
+     Onegin too -- and there to see,
      Onegin too -- and there to see,
      kept asking: "shall I live to see"...''
      becomes a horse for all to see;
@@ -8817,6 +9069,7 @@ results. See note 2 to Chapter Three.
      to be respected all through life:
      and daily scenes of modish life
      yourself too long from social life.''
+     and I'll be true to him, for life.''
      and I'll be true to him, for life.''
      the climacteric of our life,
      and dutifully shared his life
@@ -8836,6 +9089,7 @@ results. See note 2 to Chapter Three.
      the war, the snowfall, and his wife.
      and with his dinner, and his wife.
      but I've become another's wife --
+     but I've become another's wife --
      are bound, by every virtuous wife,
      ``But tell me who she is.'' ``My wife.''
      has found a port for his old age,
@@ -8892,6 +9146,7 @@ results. See note 2 to Chapter Three.
      bright Northern Cleopatra she:
      took her to his estate, where she,
      of love's anxiety. Blessed is he
+     then quietly at last says she:
      then quietly at last says she:
      all in a blaze, I said: it's he!
      and obstinate his look. But she
@@ -8911,6 +9166,7 @@ results. See note 2 to Chapter Three.
      moment the assembly seemed to shake...
      I roam by the secluded lake.
      a rambling walk beside my lake,
+     and so in the salons could make
      and so in the salons could make
      were placed across the gulf to make
      to his mysterious tree the snake
@@ -8918,6 +9174,7 @@ results. See note 2 to Chapter Three.
      that your proud glance is sure to take!
      for what's been given us to take;
      a tempting plume for you to take?
+     a tempting plume for you to take?
      bear's gone; a hallway, no mistake;
      a flimsy bridge whose every quake
      And every morning I awake
@@ -8931,6 +9188,7 @@ results. See note 2 to Chapter Three.
      will disappear as fast as smoke:
      relations off, and never spoke.
      they took offence at this, and broke
+     just at this crisis of his gale,
      just at this crisis of his gale,
      shutters are up, and all is pale
      in question, gossip, news and tale,
@@ -8938,6 +9196,7 @@ results. See note 2 to Chapter Three.
      in talk, so fruitless and so stale,
      value the hero of my tale,
      But from the hero of my tale,
+     But from the hero of my tale,
      with this the hero of my tale:
      a skeleton jerked by a cable,
      such crystalled scents as best are able
@@ -9009,6 +9268,7 @@ results. See note 2 to Chapter Three.
      he laughs -- they all begin to chuckle;
      He nods -- they start to fuss and truckle;
      when in the park, in the allée
+     when in the park, in the allée
      and all the works of Fontanelle16 --
           Nasce una gente a cui 'l morir non dole.
      too pale, too thin, but on the whole
@@ -9027,8 +9287,12 @@ results. See note 2 to Chapter Three.
      there's yap of pugs, and laughs, and bustle;
      The hall is full of noise and hustle,
      for dreams, or journalistic battle,
+     for dreams, or journalistic battle,
      my husband for his wounds in battle
+     my husband for his wounds in battle
+     a vivid brush, a witty rattle --
      a vivid brush, a witty rattle --
+     would cause widespread remark and tattle,
      would cause widespread remark and tattle,
      Freed from its dripping cork, the bottle
      and glumly serves the medicine bottle,
@@ -9056,6 +9320,7 @@ results. See note 2 to Chapter Three.
      misunderstanding, noise, and blame!
      which I myself won't praise or blame
      nothing you did gave cause for blame:
+     nothing you did gave cause for blame:
      and theirs was the poetic flame
      of calm and reason, when the flame
      In languid silence, or the flame
@@ -9074,6 +9339,7 @@ results. See note 2 to Chapter Three.
      while men, all sombre, all the same,
      the hapless Phrygians all the same,
      freezes my blood... Yet all the same,
+     freezes my blood... Yet all the same,
      that fired his soul, to burn the same;
      new depths of boredom.'' ``No, the same.
      of eloquence, and just the same
@@ -9124,12 +9390,14 @@ results. See note 2 to Chapter Three.
      and, with it, forced renown to come --
      of its unvarnished monochrome.
      young Tanya first appeared to me,
+     young Tanya first appeared to me,
      to me her best in-quarto tome,
      him prove it, writing after me.''
      He destined Olga's hand for me,
      whose memory will preserve for me
      Tatyana's rites are not for me.
      ``Enough, stand up. It's now for me
+     ``Enough, stand up. It's now for me
      allow no rest to you or me;
      I've no one here who comprehends me,
      and now a swooning mind attends me,
@@ -9144,6 +9412,7 @@ results. See note 2 to Chapter Three.
      the girls sing out the ancient rhyme:
      love's melting dreams shall fill my rhyme,
      our modern Russia's plague and bane.
+     to all that's trivial and inane?
      to all that's trivial and inane?
      lively, capricious, and inane...
      Tatyana breathed on the cold pane,
@@ -9444,6 +9713,7 @@ results. See note 2 to Chapter Three.
      he would have found a normal fate.
      resigned disposal of your fate.
      the entire story of your fate.
+     the toll of those borne off by fate!
      the toll of those borne off by fate!
      would be allied to him by fate;
      you'll never leave me to my fate.
@@ -9451,6 +9721,7 @@ results. See note 2 to Chapter Three.
      the pillars of the turnpike-gate;
      leave far behind that city-gate.
      looked down in an access of hate,
+     is tinsel on a life I hate;
      is tinsel on a life I hate;
      sooner or later will relate
      a vulgar touch. I can't translate.
@@ -9463,8 +9734,10 @@ results. See note 2 to Chapter Three.
      maid-servants from the whole estate
      He saw the sad girl's trembling state,
      ``But so it is: I'm in no state
+     my house, my evenings, all that state --
      my house, my evenings, all that state --
      What trifling could be more complete?
+     What trifling could be more complete?
      here a weak version, incomplete,
      of plains where boredom reigns complete,
      drew scrutiny no less complete --
@@ -9498,6 +9771,7 @@ translated only the first part of the famous verse.'' Pushkin's note.
      that's the morass, I beg you note,
      still filled with Eugene, Tanya wrote,
      from Boston's cloth or gossip's quote;
+     him far enough through wild and waste.
      him far enough through wild and waste.
      yes, focus on them your lorgnette,
      And every minute his lorgnette
@@ -9519,6 +9793,7 @@ translated only the first part of the famous verse.'' Pushkin's note.
      reflection or provoked dispute:
      Godfearing folk will institute
      on billiard-table rests a cue,
+     our vessel's long been overdue.
      our vessel's long been overdue.
      her journey home is overdue.
      you've paid insanity its due.
@@ -9535,6 +9810,7 @@ translated only the first part of the famous verse.'' Pushkin's note.
      Now, to my cost it may be true
      am always glad to write, it's true,
      ourselves on our landfall. It's true,
+     ourselves on our landfall. It's true,
      A sorry state of things, it's true!
      what wings our first successes gave!
      who early died as die the brave'' --
@@ -9546,14 +9822,18 @@ translated only the first part of the famous verse.'' Pushkin's note.
      there'll be a fight. For that I give
      promptly had nothing left to give.
      is this then what you can't forgive?
+     this very day I'd gladly give,
      this very day I'd gladly give,
      in her once more has come alive.
+     in her once more has come alive.
      the glare, the fumes in which I live,
+     the glare, the fumes in which I live,
      my word; no welshing, as I live. >
      Such feckless passion -- as I live,
      had only debts on which to live.
      relined and strengthened for the drive;
      but youthful, virgin hearts derive
+     whose heart on dreams was wont to thrive,
      whose heart on dreams was wont to thrive,
      like fields in spring when storms arrive.
      at last the final hours arrive.
@@ -9578,10 +9858,12 @@ translated only the first part of the famous verse.'' Pushkin's note.
      until this day, a lady's love
      recalling earlier loves, did we,
      has wished it an abrupt goodbye --
+     has wished it an abrupt goodbye --
      penates, came to cast an eye
      men made their bows, and sought her eye;
      not only by Evgeny's eye;
      What ails him? he's in some strange daze!
+     to meet his thirsty lips... What daze,
      to meet his thirsty lips... What daze,
      to heart. And in his misted gaze
      arrives, the girl's exhausted gaze,
@@ -9591,6 +9873,7 @@ translated only the first part of the famous verse.'' Pushkin's note.
      with years no more to meet our gaze?
      watch for your smile, and catch your gaze
      homestead, before her parents' gaze,
+     looks at him with a steady gaze,
      looks at him with a steady gaze,
      has fixed on her a steady gaze.
      the simple legend -- then a haze
@@ -9668,6 +9951,8 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      still hardly opened up, from fading.''
      He mounts the sledge, with daylight fading:
      what's in them? All this loud parading,
+     what's in them? All this loud parading,
+     and all this flashy masquerading,
      and all this flashy masquerading,
      that poisonous worm, despised, degrading,
      a hermit's life -- he'd be proceeding
@@ -9730,6 +10015,8 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      audacious tunnels will be marching:
      and iron bridges will go arching
      They've missed Eugene's completed etching.
+     They've missed Eugene's completed etching.
+     But she who modelled for the sketching
      But she who modelled for the sketching
      that queen of secrets and of sighing.
      inspires your lute to sounds of sighing?
@@ -9786,6 +10073,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      But it's the talent for concealing
      that, artless, and without concealing,
      behind deceit or double-dealing?)
+     behind deceit or double-dealing?)
      The storm is over,5 dawn is paling,
      fancies once more are hotly bubbling,
      as if beneath her, dark and rumbling,
@@ -9794,10 +10082,13 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      as from their luscious hive go tumbling
      once more that touch is fiercely troubling
      I know your heart: it has a feeling
+     I know your heart: it has a feeling
      her love obeys the laws of feeling,
      allows her hand, that's lost all feeling,
+     allows her hand, that's lost all feeling,
      hate, love, joy, sorrow -- every feeling,
      Tatyana leaves Onegin kneeling,
+     Tatyana leaves Onegin kneeling,
      ``Why, Tanya, what...?'' ``All's dull and trifling.
      ``I can't sleep, nyanya: it's so stifling!
      ``My dearest heart, you're sick and ailing.''
@@ -9845,6 +10136,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      He lay quite still, and strange as dreaming
      and everything around was dreaming,
      you'd made appearance in my dreaming;
+     respect, and mercy for my dreaming.
      respect, and mercy for my dreaming.
      Shot through below the chest -- and streaming
      through gloom and mist; and there came streaming
@@ -9855,6 +10147,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      These figures from the world of seeming,
      Why is Tatyana guiltier-seeming?
      What power enslaves you, with your seeming
+     What power enslaves you, with your seeming
      magic of sleep had started claiming
      when Bréguet's chime is heard proclaiming
      and wakened Lensky by exclaiming:
@@ -9877,6 +10170,7 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      I must translate -- there's no presuming --
      Away inside that unassuming
      when, utterly worn out by rhyming,
+     she holds a letter up, and leaning
      she holds a letter up, and leaning
      and, on my bed-head gently leaning,
      that strikes him with such force and meaning?
@@ -9975,10 +10269,12 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      a general of majestic bearing
      He finds the shock beyond all bearing:
      before you on the ground, unhearing,
+     the clink of rowels, met his hearing;
      the clink of rowels, met his hearing;
      nor from the bath-house roof be clearing
      if, motionless, no life appearing,
      Tatyana's husband, now appearing...
+     Tatyana's husband, now appearing...
      Petushkóv, local Paris, tearing,
      it's my profession; he was wearing --
      for grumbling, gossiping and swearing
@@ -10051,8 +10347,10 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      The house is packed out; scintillating,
      He's flown to Talon's,4 calculating
      Hurrah! let's start congratulating
+     Hurrah! let's start congratulating
      ``By virtue of procrastinating
      he wakes; a bath where ice is floating;
+     reader, we must be separating,
      reader, we must be separating,
      From violent passions fast pulsating
      While Lensky'd long been meditating
@@ -10200,10 +10498,12 @@ with which XXXII ends, is Pushkin's own contribution, a sample as it were of
      your heart some self-restraint; for each
      You'll love again, but you must teach
      so sketchily possessed by each,
+     his dull, sick look, his dumb reproach --
      his dull, sick look, his dumb reproach --
      I hear the wrath of your reproach.
      in my petition an approach,
      his humbly suppliant approach,
+     his humbly suppliant approach,
      the flickering tones of dress and speech,
      is it not true that Russian speech,
      and take due warning from my speech.
@@ -10325,6 +10625,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      a gulf has gaped... Says Tanya: ``I
      I'd not have known you, therefore I
      and, with my Eugene, so have I.
+     and, with my Eugene, so have I.
         II
         II
         II
@@ -10341,12 +10642,13 @@ Pushkin's poem The Fountain of Bakhchisarai.
         III
         LIII
         LIII
-        XLIII
-        XLIII
+        XLIII
         XLIII
         XLIII
         XLIII
         XLIII7
+        XLIII
+        XLIII
         VIII
         VIII
         VIII
@@ -10356,6 +10658,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
         VIII
         LVIII
         XLVIII
+        XLVIII
         XLVIII
         XLVIII
         XLVIII
@@ -10411,6 +10714,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
         XLII
         XLII
         XLII
+        XLII
         XLII
         (XXXIX, XL, XLI,) XLII
         VII
@@ -10424,6 +10728,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
         LVII
         XLVII
         XLVII
+        XLVII
         XLVII
         XLVII
         XLVII
@@ -10446,11 +10751,11 @@ Pushkin's poem The Fountain of Bakhchisarai.
         XXXVII
         XXXVII
         XXXVII
+        XXXVII
+        XXXVII
+        XXXVII
         < XXXVII7
         XXXVII
-        XXXVII
-        XXXVII
-        XXXVII
         XII
         XII
         XII
@@ -10479,11 +10784,13 @@ Pushkin's poem The Fountain of Bakhchisarai.
         LI
         LI
         LI
+        LI
         XLI
         XLI
         XLI
         XLI
         XLI
+        XLI
         XLI
      It's time she went. But what can I
      the poet's only theme is ``I.''
@@ -10501,6 +10808,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
         XLVI
         XLVI
         XLVI
+        XLVI
         XLVI
         (I, II, III, IV, V, VI,
         XVI
@@ -10523,8 +10831,8 @@ Pushkin's poem The Fountain of Bakhchisarai.
         XXXVI
         XXXVI
         XXXVI
-        XXXVI
         XXXVI6
+        XXXVI
         XXXVI
         XI
         XI
@@ -10599,8 +10907,10 @@ Pushkin's poem The Fountain of Bakhchisarai.
      I'll just remark, my verses talk
      replies: ``We might as well.'' They walk
      and riches, and the wish to thank
+     and riches, and the wish to thank
      their guests, for all they ate and drank,
      were served in order of their rank.
+     I move in the grand monde? that rank,
      I move in the grand monde? that rank,
      she peers discreetly through a chink
      but meanwhile let him live, and think
@@ -10625,6 +10935,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      in morning time he'd read a book...
      terse words or crosses in the book,
      God grant that from this little book
+     God grant that from this little book
      at any other sort of book.
      and, in her hand, a small French book.
      at the Academic Diction-book.
@@ -10652,6 +10963,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      you called there twice, and since then took
      in her own home. She never took
      for heart's delight, or fun, you took,
+     for heart's delight, or fun, you took,
      blessed are daytime's care and cark,
      blest is the advent of the dark!
      Tatyana, sleepless in the dark,
@@ -10667,17 +10979,20 @@ Pushkin's poem The Fountain of Bakhchisarai.
      you made me drunk as one could ask!
      with draughts from love's enticing flask,
         L
+        L
         L
         L
         L
      she'd never tell them news or scandal
      over the modish word ideal,
+     goodbye to you, my true ideal,
      goodbye to you, my true ideal,
      the mountain maiden,19 my ideal,
      the cooks prepare the midday meal;
      used in times past to ring a peal
      he dozed away; but when the real
      and yet so light. All that is real
+     and yet so light. All that is real
      and coachmen swear, and women squeal.
      my carefree song would thus reveal
      7 Heroine of Ozerov's tragedy Fingal.
@@ -10954,6 +11269,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      Tatyana! it's addressed... to whom?
      despite herself, is Lensky's doom;
      a humble cross, in woodland gloom,
+     a humble cross, in woodland gloom,
      the girl remains there in the gloom
      and festal evenings in the gloom.
      a nightingale, in forest gloom,
@@ -10977,6 +11293,7 @@ Pushkin's poem The Fountain of Bakhchisarai.
      epoch's portrayed, survived the ban,
      and feel once more emotion's ban.
      so, if we want to change, we can!
+     of tempests, in what raging ocean
      of tempests, in what raging ocean
      asked Lensky: ``Should we start, I mean?''
      the clamorous honking geese began
@@ -11002,12 +11319,14 @@ window-panes, departed  female owner (the soul being  feminine  in Russian),
      The princess, sitting peaked and wan,
      and Werther, martyred and doom-laden,
      without surprise or rage... his laden,
+     without surprise or rage... his laden,
      her look, so sweetly sorrow-laden,
      Books, riding, walks, sleep heavy-laden,
      Here's tea: the girls have just, as bidden,
      when, from behind the doorway, hidden
      sometimes from a fair, black-eyed maiden
      the flower-like pallor of the maiden,
+     she sees it all. The simple maiden,
      she sees it all. The simple maiden,
      all for our tender dreamy maiden
      walked homeward round the kitchen garden;
@@ -11081,9 +11400,11 @@ window-panes, departed  female owner (the soul being  feminine  in Russian),
      are here untouched by fashion's reign,
      was one who raged and raged again,
      would not have recognized again
+     would not have recognized again
      of virgin fancy, and again
      the youthful lover once again
      fate could be something else again..,
+     On this we'll part; goodbye again!
      On this we'll part; goodbye again!
      after two minutes, off again,
      we sometimes like to hear again
@@ -11099,10 +11420,13 @@ window-panes, departed  female owner (the soul being  feminine  in Russian),
      a furious, boiling, heaving main
      radiance of Dian, sits in pain
      and rightly so, but now his pain
+     her full account of voiceless pain?
      her full account of voiceless pain?
      reduced to sense, not without pain --
+     advantages of heart and brain,
      advantages of heart and brain,
      to hit the target: thigh or brain.
+     God grant you took at least a grain.
      God grant you took at least a grain.
      on modish malice, coarse of grain
      here, seize it quick for this quatrain!)
@@ -11183,6 +11507,7 @@ by Pushkin.
      by country freedom, rightful pardon
      3 A statuette of Napoleon.
      since, through the mist that dreams arise on,
+     since, through the mist that dreams arise on,
      He looks, and answers: ``Agafon.''4
      swaying the artless, waiting on
      he saw no point in staying on,
@@ -11203,6 +11528,7 @@ by Pushkin.
      wronged always in disgraceful fashion --
      had gone in no uncertain fashion
      hope that he's had no time to fashion
+     if I had power to choose your fashion --
      if I had power to choose your fashion --
      Evgeny thought in just this fashion.
      sharing her in promiscuous fashion,
@@ -11213,10 +11539,12 @@ by Pushkin.
      Fonvizin8 sparkled, freedom's champion,
      Enchanted land! There like a lampion
      you acted well, that dread occasion,
+     you acted well, that dread occasion,
      He reads to Olga on occasion,
      her secret work of magic suasion!
      of moralistical persuasion,
      earnestly striving for persuasion
+     your icy look, your stern dissuasion,
      your icy look, your stern dissuasion,
      How dull are acting and evasion,
      Then Tanya hears of the decision.
@@ -11239,6 +11567,7 @@ by Pushkin.
      let not the poet's soul of passion
      The arbitrary rules of passion
      excited not a hint of passion:
+     than this humiliating passion
      than this humiliating passion
      he sends a letter, penned with passion.
      He gave this figure -- loved with passion,
@@ -11347,6 +11676,7 @@ by Pushkin.
      But here, with our congratulation
      In Tanya, what a transformation!
      to give you honest explanation.
+     to give you honest explanation.
      Compassion, yes, and indignation,
      To batten down their indignation
      somehow have got the designation
@@ -11407,10 +11737,13 @@ by Pushkin.
      ``I?'' ``Saturday. The invitation
 1 in exaltation
      you see, with tears and incantation
+     you see, with tears and incantation
      So to his wife for presentation
      where fate had fixed our confrontation,
+     where fate had fixed our confrontation,
      Of course. Yet fashion's wild rotation,
      thrives to this moment, in a station
+     mother implored me; my sad station
      mother implored me; my sad station
      how soon the bounds of rank and station
      had filled this heart, and detestation
@@ -11437,6 +11770,7 @@ by Pushkin.
      by what's called machinal reaction,
      the brilliant crackpot: this reaction
      he read, and read -- no satisfaction:
+     A pause of silence and inaction,
      A pause of silence and inaction,
      of Russian verse, its force in action, --
      she can't make out a single fraction
@@ -11446,6 +11780,7 @@ by Pushkin.
      Lensky all evening, in distraction,
      had long proved tedious to distraction:
      what dream accounts for her distraction?
+     what dream accounts for her distraction?
      Rousseau (forgive a short distraction)
      Tatyana never knew the attraction
      It's true, the magnet-like attraction
@@ -11456,6 +11791,7 @@ by Pushkin.
      I feel a brotherly affection,
      with such a blissful, brief infection --
      Whatever in this rough confection
+     Whatever in this rough confection
      showed one a pattern of perfection
      the universe is all perfection;
      arrested by the sheer perfection
@@ -11477,6 +11813,7 @@ by Pushkin.
      absorbed me in the recollection
      Another page of recollection:
      then on the leaves of recollection,
+     you sought -- tumultuous recollection,
      you sought -- tumultuous recollection,
      he's gnawed by serpent Recollection,
      but groomed an anecdote-collection
@@ -11549,6 +11886,7 @@ château was of a construction
      it's late, time's passing... not to mention,
      but I've not got the least intention
      She's paid the sunrise no attention,
+     What cause has won me your attention?
      What cause has won me your attention?
      her husband's or the world's attention...
      Now brooding thoughts hold his attention
@@ -11559,15 +11897,19 @@ château was of a construction
      he'll charm you with his fine invention,
      and all their ravishing invention
      Zaretsky draws up a convention
+     Could it not be that by convention
      Could it not be that by convention
      in our affair, the intervention
      Deaf to her sister's intervention,
      She went -- and Eugene, all emotion,
+     She went -- and Eugene, all emotion,
+     our hapless Tanya! An emotion
      our hapless Tanya! An emotion
      Tatyana in a deep emotion
      your tears would flow -- but your emotion,
      What sort of roses, in your notion,
      she drinks it like a priceless potion;
+     of wild repentance and devotion
      of wild repentance and devotion
      Eugene forsakes the packed reception,
      By dreams now sad in their conception,
@@ -11618,9 +11960,11 @@ château was of a construction
      I was Onegin's friend that season.
      the roundest face that you've set eyes on,
      ``What, Grandison? oh, Grandison!
+ith no adornment on;
      alone, with no adornment on;
      invariably, as time went on,
      a dumb moon, on a dumb horizon.''
+     a free romance's far horizon,
      a free romance's far horizon,
      my disillusioned glass, and yearn,
      became their scrutiny's concern.
@@ -11697,6 +12041,7 @@ château was of a construction
      is that my feet lack strength to go
      bed-time, and time for guests to go.
      see with their jugs the milk-girls go
+     I married. I beseech you, go;
      I married. I beseech you, go;
      glitter and tumble as they go,
      have drenched the steel bit as they go
@@ -11726,6 +12071,7 @@ château was of a construction
      after that, supper's served, and so
      they were her only food... and so
      his conscience's record, and so
+     made all fates look the same... and so
      made all fates look the same... and so
      with your good offices, and so
      Enough, my friends; it's all so-so.
@@ -11874,14 +12220,18 @@ rustic to the Russian ear''. Nabokov. See note 3 to Chapter Two.
      but from her shaggy-liveried ranger
      by fate's decree: this freakish stranger,
      some future dunce will point a finger
+     then know that your reproving finger,
      then know that your reproving finger,
+     ``I weep... In case there still should linger
      ``I weep... In case there still should linger
      perhaps -- for flattering hope will linger --
      Dawn comes in mist and chill; no longer
      Tatyana now need wait no longer.
      in pairs, their hunger driving stronger,
      ``this is the one!'' Ah, ever stronger,
+     what's more, I loved you; but my hunger,
      what's more, I loved you; but my hunger,
+     ``For then, Onegin, I was younger,
      ``For then, Onegin, I was younger,
      For it was custom that consoled her
      soon a great truth came to enfold her
@@ -11922,6 +12272,7 @@ rustic to the Russian ear''. Nabokov. See note 3 to Chapter Two.
      now free, I once more weave together
      a joking flirt, or both together,
      I'll part them, bring them back together;
+     ``Bliss was so near, so altogether
      ``Bliss was so near, so altogether
      their lords, and thwack their palms together;
      sledges, and tardy dawns together
@@ -11929,6 +12280,7 @@ rustic to the Russian ear''. Nabokov. See note 3 to Chapter Two.
      a wondrous tenderness. And whether
      they talk of her, of how and whether:
      is firmly cast. I don't know whether
+     is firmly cast. I don't know whether
      has left, and no one here has met her...
      She hesitates, and doubts beset her:
      When comes my moment to untether?
@@ -12176,8 +12528,10 @@ Prisoner.
      my inept pupil, at that hour,
      Exhausted by the ballroom's clamour,
      he sleeps, away from glare and glamour,
+     I'd nothing to attract your humour...
      I'd nothing to attract your humour...
      ``Then, in the backwoods, far from rumour
+     ``Then, in the backwoods, far from rumour
      No, soon she changed her old demeanour:
      having by her severe demeanour
      like Regulus, that god of honour,
@@ -12245,8 +12599,10 @@ Prisoner.
      sensitive ladies of all ages --
      the secrets of the grave, the pages
      Of those who heard my opening pages
+     Of those who heard my opening pages
      but in it there are certain pages
      a blessing from its blasts and rages,
+     as Sadi17 sang in earlier ages,
      as Sadi17 sang in earlier ages,
      There's din of parting now that rages,
      and the Skotínins, grizzled sages,
@@ -12254,6 +12610,7 @@ Prisoner.
      and bedbug that infest the stages
      parks, monasteries, towers and ledges,
      peasants, and fashion-shops, and sledges,
+     a rest from toil and all its aches,
      a rest from toil and all its aches,
      the jams appear in little dishes;
      The protocol is all one wishes:
@@ -12271,8 +12628,10 @@ Prisoner.
      is there to lisp its pack of lies.
      (the reader thinks the rhyme is lilies:
      the prince looks at him, and replies:
+     cheek upon hand she softly cries
      cheek upon hand she softly cries
      in a still stream that never dries.
+     in a still stream that never dries.
      cherries throw and raspberries
      and other, more exacting worries,
      My pen, as once, no longer hurries
@@ -12286,6 +12645,7 @@ Prisoner.
      that generations of new beauties,
      that verse will turn to useful duties;
      will loyally discharge its duties,
+     or just grammatical mistakes,
      or just grammatical mistakes,
      brushes on thirty different scales;
      lies in a coverlet that ripples
@@ -12495,9 +12855,11 @@ To live, it hurries, and to feel it hastes.
      and soon, oh soon the storm's arrears
      by six-page letters, rings and tears,
      I'm grieving still, but no more tears,
+     and than these letters, and these tears.
      and than these letters, and these tears.
      and from her eyes the eager tears
      At least you then showed for my years
+     At least you then showed for my years
      the odious bear still grunts and lumbers.
      Ahead of them a pinewood slumbers
      lorgnettes of jealous fashion-leaders,
@@ -12527,6 +12889,7 @@ To live, it hurries, and to feel it hastes.
      defeated, turned up at his neighbour's.
      he rested -- wept for by his neighbours,
      throughout the boredom of the hours --
+     still dim, through crystal's magic glass,
      still dim, through crystal's magic glass,
      the moon; but in the darkened glass
      with the resounding chime of glass.
@@ -12535,6 +12898,7 @@ To live, it hurries, and to feel it hastes.
      the only face to shake and pass
      then from his cabinet he'll pass
      before my gaze began to pass.
+     before my gaze began to pass.
      how pleasantly the stages pass.
      jaws masticate as minutes pass:
      no proud pretentions to success,
@@ -12570,7 +12934,9 @@ To live, it hurries, and to feel it hastes.
      stalking the momentary weakness,
      the party waits. Seized with an illness
      is on his feet -- in utter stillness
+     for you, I think, the humble dimness
      for you, I think, the humble dimness
+     that could sustain it? Only grimness;
      that could sustain it? Only grimness;
      There, with epigrammatic neatness,
      where (standard rhyme) are youth and fleetness?
@@ -12654,8 +13020,10 @@ To live, it hurries, and to feel it hastes.
      and act the humble or imperious,
      For goodness' sake, you can't be serious
      my task, so vivid and so serious
+     my task, so vivid and so serious
      the indifferent, or the deadly serious!
      And my companion, so mysterious,
+     And my companion, so mysterious,
      ``At the Larins'!'' ``But how mysterious.
      in albums, blunted the censorious
      There was -- --,10 so notorious
@@ -12694,6 +13062,7 @@ To live, it hurries, and to feel it hastes.
      that once I spent my happiest days?
      ``No, every minute of my days,
      The comrade of so many days,
+     sweet talk with friends. How many days
      sweet talk with friends. How many days
      sit on a flimsy bench, and lays
      and on her lips a light smile plays.
@@ -12710,6 +13079,7 @@ To live, it hurries, and to feel it hastes.
      But he, by sad and rocky ways,
      for dance, and din, and worldly ways,
      oblivion of life's stormy ways,
+     oblivion of life's stormy ways,
      adorning all its country ways.
      gave up the ancient Kremlin-keys:
      objective of his thoughts and joys:
@@ -12723,6 +13093,7 @@ To live, it hurries, and to feel it hastes.
      Tsimlyansky wine, between the meat
      It baffles me. But I'll repeat
      of Tanya's image... Ah, how great
+     of Tanya's image... Ah, how great
      no, forests are the sole retreat
      and every plea that lips can treat;
      The World found this enough to treat
@@ -12758,6 +13129,7 @@ To live, it hurries, and to feel it hastes.
      to clasp your knees, and at your feet
      of ladies' heads, and ladies' feet;
      But now! what brings you to my feet?
+     But now! what brings you to my feet?
      of certain ladies' tiny feet.
      and the blancmanger, then a fleet
      that somehow that same day we'll meet...
@@ -12778,6 +13150,7 @@ To live, it hurries, and to feel it hastes.
      still made of tulle, the self-same bonnet
      we'll draw it deeper in our net;
      and enviable for a poet,
+     and enviable for a poet,
      no magic fancies of the poet,
      in frosted bottle, for the poet
      the one who killed the youthful poet?''
@@ -12862,11 +13235,13 @@ To live, it hurries, and to feel it hastes.
      and your sincerity of thought
      one leads the multitude in thought,
      and home he drives, deep-sunk in thought.
+     to drain its beaker down, nor thought
      to drain its beaker down, nor thought
      and prone to censure in our thought;
      in fact by some quite different thought.
      is dear to me, for it has brought
      of life's repast betimes, nor sought
+     of life's repast betimes, nor sought
 it.
      and with a halting, trembling gait
      Then, crying, they untwined my plait,
@@ -12912,6 +13287,7 @@ it.
      The book displayed, not so you'd know it,
      flown from society as we know it,
      in your pursuit I've come to know it:
+     in your pursuit I've come to know it:
      In this, dear reader, if you know it,
      the darling objects -- don't you know it? --
      darkly above the water's lilt,
@@ -12984,11 +13360,13 @@ it.
      will in a flash decide his lot.
      opens the door a tiny slot...
      husband and father as my lot;
+     attainable!... But now my lot
      attainable!... But now my lot
      From widow Clicquot and from Moët,
 ``for reasons of censorship'' because, as Nabokov explains, ``tsars were not
      or borrow, say, from me, if not.''
      and where had he arrived from, not
+     I acted thoughtlessly or not:
      I acted thoughtlessly or not:
      by decent company, has not,
      in everything she sees there's not
@@ -13034,6 +13412,7 @@ it.
      in all the world could take my heart!
      liven the drowsing of my heart,
      your grief would fail to touch my heart,
+     I'm grateful now with all my heart.
      I'm grateful now with all my heart.
      of hope sometimes disturbs my heart;
      and fastens, like a term of art,
@@ -13050,6 +13429,7 @@ it.
      it would be painful to depart
      despite herself, rehearsed the part:
      was just created for the part.
+     you took an honourable part --
      you took an honourable part --
      Tatyana hears but takes no part;
      of sense and judgement. For his part
@@ -13063,12 +13443,14 @@ it.
      the heart of the professional flirt!
      or Russia's chondria, for short;
      so unforgiving a report?
+     that, for all this, my shame's report
      that, for all this, my shame's report
      and to it, with a grave import,
      one finds in war amusing sport,
      by some perverse schoolboy for sport;
      how well he knew the way to hurt --
      earn us the favour of the Court?
+     earn us the favour of the Court?
      and plaits a piebald shoe of bast;
      passion and dreams of pensive cast.
      dreams of inconsequential cast,
@@ -13159,6 +13541,7 @@ it.
      with lampions studded all about
      glitters with hoar-frost all about.
      into the social whirlabout;
+     Today it's turn and turn about.
      Today it's turn and turn about.
 very briefly -- to a  controversy between different literary  cliques  about
      with deep emotion looks about
@@ -13180,6 +13563,7 @@ very briefly -- to a  controversy between different literary  cliques  about
      she flails around, she tries to shout --
      a sham that trustful souls work out;
      humbly I heard your lesson out?
+     humbly I heard your lesson out?
      With that, in tears, and quite worn out,
      Tatyana struggles to run out --
      to the Larins' had caused a spout
@@ -13200,6 +13584,7 @@ very briefly -- to a  controversy between different literary  cliques  about
      3 Julie, ou la nouvelle Héloise. by Rousseau, 1761.
      spoke words of hope? But who are you:
      ``Well, I won't hold you up or bore you;
+     But now -- oh God! -- the thought of you,
      But now -- oh God! -- the thought of you,
      And now, my friends, I hear from you
      really more bearable to you
@@ -13236,6 +13621,7 @@ very briefly -- to a  controversy between different literary  cliques  about
         XLIV
         XLIV
         XLIV
+        XLIV
         XLIV
         XIV
         XIV
@@ -13267,6 +13653,7 @@ very briefly -- to a  controversy between different literary  cliques  about
         XLV
         XLV
         XLV
+        XLV
         XLV
         XLV
            Griboedov
@@ -13311,6 +13698,7 @@ what he can do.'' Nabokov.
      the jagged flint's pulled back anew.
      a soul that nothing can renew...
      of lovelorn girls was nothing new?
+     of lovelorn girls was nothing new?
      at some dull aunt's, sat down and knew
      than most. Evgeny, though he knew
      now I've forgotten all I knew.
@@ -13341,6 +13729,7 @@ what he can do.'' Nabokov.
      with each nuance of wintry glow:
      must be my theme, if you'll allow.
      and empty gossip, you'll allow,
+     and empty gossip, you'll allow,
      a classicist, he'll not allow
      with eyes of love, with greed to swallow
      She's dropped her sash's silken billow;
@@ -13354,6 +13743,7 @@ what he can do.'' Nabokov.
      and autumn lingered, long and slow;
      the altar flame's extinguished now.
      Why then do you pursue me now?
+     Why then do you pursue me now?
      I gave my word, alas, though now
      Onegin swiftly came to know
      and in the morning wouldn't know
@@ -13395,6 +13785,7 @@ what he can do.'' Nabokov.
         LIX
         XLIX
         XLIX
+        XLIX
         XLIX
         XLIX
 see also Chapter Seven, XLIX.
@@ -13450,6 +13841,7 @@ see also Chapter Seven, XLIX.
      I'd love you, but inside a day,
      sickroom attendance night and day
      Onegin, d'you recall the day
+     Onegin, d'you recall the day
      until the tombstone; there one day
      and dreamt that she with him one day
      What breasts! What soul!... We'll go one day
@@ -13601,6 +13993,8 @@ the relative merits of the classic ode and the romantic elegy.
      though I'll come back to him, yet clearly
      ``Last night, what made you fly so early?''
      of finishing its book, but early
+     of finishing its book, but early
+     Blest he who's left the hurly-burly
      Blest he who's left the hurly-burly
      All Lensky's thoughts went hurly-burly,
      with a quick look perusing lightly
@@ -13648,11 +14042,13 @@ the relative merits of the classic ode and the romantic elegy.
      ``as sung of old, in years of glory,
      and leave no faint footprint of glory...
      there Didelot10 crowned himself with glory:
+     ``To me, Onegin, all this glory
      ``To me, Onegin, all this glory
      I meant to paint, with Alban's8 glory,
      and pâté, Strasbourg's deathless glory,
      once more Corneille's majestic story;
      at fifty, would prolong the story
+     this modish whirl, this social story,
      this modish whirl, this social story,
      to high renown my doleful story,
      Only the ode, that solemn story!
