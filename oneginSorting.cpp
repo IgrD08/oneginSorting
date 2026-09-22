@@ -7,8 +7,8 @@
 #include <unistd.h>
 #include <stdlib.h>
 #include <sys/stat.h>
-#include "sorting.cpp"
 #include "fileProcessing.cpp"
+#include "sorting.cpp"
 
 int main()
 {
@@ -19,11 +19,11 @@ int main()
 
     int fileDescriptorWrite = fileOpening("reonegin.txt", O_WRONLY);
 
-    qSort(index, nLines, strComparatorDown, sizeof(char*));
+    qSort(index, nLines, strComparatorDown, sizeof(arrayParameter));//TODO - check to mistake
 
     writeToFile(index, nLines, fileDescriptorWrite);
 
-    qsort(index, nLines, sizeof(char*), strComparatorFromEnd);//TODO - массив структур
+    qsort(index, nLines, sizeof(arrayParameter), strComparatorFromEnd);//TODO - массив структур
 
     writeToFile(index, nLines, fileDescriptorWrite);
 

@@ -6,19 +6,19 @@ struct arrayParameter
 
 const int MAX_STR = 10000;
 
-int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr);
-void writeToFile(char **index, int numberOfReadLines, int fileDescriptor);
+int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr);
+void writeToFile(arrayParameter *index, int numberOfReadLines, int fileDescriptor);
 int fileOpening(const char *fileName, int flag);
 char* strchrMy(char *str, int ch);
 void safeFree(char **bufferPtr);
 
-int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
+int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr)
 {
     assert(fileName);
     assert(index);
     assert(bufferPtr);
 
-    int fileDescriptorRead = fileOpening(fileName, flag);//TODO можно ли возвращать код ошибки
+    int fileDescriptorRead = fileOpening(fileName, flag);
     if (fileDescriptorRead < 0) return -1;
 
     struct stat fileInfo;
@@ -36,7 +36,7 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 
     int numberOfReadLines = 0;
 
-    index[numberOfReadLines] = *bufferPtr;
+    index[numberOfReadLines].array = *bufferPtr;
     numberOfReadLines++;
 
     char *element = *bufferPtr;
@@ -49,7 +49,7 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 
         if (*nextLine != '\0' && numberOfReadLines < MAX_STR)
         {
-            index[numberOfReadLines] = nextLine;
+            index[numberOfReadLines].array = nextLine;
             numberOfReadLines++;
         }
 
@@ -59,15 +59,15 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
     return numberOfReadLines;
 }
 
-void writeToFile(char **index, int numberOfReadLines, int fileDescriptor)
+void writeToFile(arrayParameter *index, int numberOfReadLines, int fileDescriptor)
 {
     assert(index);
 
     for (int i = 0; i < numberOfReadLines; i++)
     {
-        if (index[i] != NULL)
+        if (index[i].array != NULL)
         {
-            write(fileDescriptor, index[i], strlen(index[i]));
+            write(fileDescriptor, index[i].array, strlen(index[i].array));
             write(fileDescriptor, "\n", 1);
         }
     }

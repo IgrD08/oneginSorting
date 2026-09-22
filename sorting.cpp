@@ -56,33 +56,33 @@ int strComparatorDown(const void *first, const void *second)
     assert(first);
     assert(second);
 
-    const char *firstString = *((const char*const*) first);
-    const char *secondString = *((const char*const*) second);
+    const arrayParameter *firstString = (const arrayParameter*) first;
+    const arrayParameter *secondString = (const arrayParameter*) second;
     int firstCounter = 0, secondCounter = 0;
 
-    while ((firstString[firstCounter])  != '\0' &&
-           (secondString[secondCounter]) != '\0')
+    while ((firstString->array[firstCounter])  != '\0' &&
+           (secondString->array[secondCounter]) != '\0')
     {
-        while (!isalpha(firstString[firstCounter]) &&
-               firstString[firstCounter] != '\0') firstCounter++;
-        while (!isalpha(secondString[secondCounter]) &&
-               secondString[secondCounter] != '\0') secondCounter++;
+        while (!isalpha(firstString->array[firstCounter]) &&
+               firstString->array[firstCounter] != '\0') firstCounter++;
+        while (!isalpha(secondString->array[secondCounter]) &&
+               secondString->array[secondCounter] != '\0') secondCounter++;
 
-        if (firstString[firstCounter] == '\0' || secondString[secondCounter] == '\0')
+        if (firstString->array[firstCounter] == '\0' || secondString->array[secondCounter] == '\0')
         {
             break;
         }
 
-        if (tolower(firstString[firstCounter]) != tolower(secondString[secondCounter]))
+        if (tolower(firstString->array[firstCounter]) != tolower(secondString->array[secondCounter]))
         {
-            return tolower(secondString[secondCounter]) - tolower(firstString[firstCounter]);
+            return tolower(secondString->array[secondCounter]) - tolower(firstString->array[firstCounter]);
         }
 
         firstCounter++;
         secondCounter++;
     }
 
-    return secondString[secondCounter] - firstString[firstCounter];
+    return secondString->array[secondCounter] - firstString->array[firstCounter];
 }
 
 int strComparatorFromEnd(const void *first, const void *second)
@@ -90,23 +90,23 @@ int strComparatorFromEnd(const void *first, const void *second)
     assert(first);
     assert(second);
 
-    const char *firstString = *((const char*const*)first);
-    const char *secondString = *((const char*const*)second);
+    const arrayParameter *firstString = (const arrayParameter*)first;
+    const arrayParameter *secondString = (const arrayParameter*)second;
     int firstCounter = 0, secondCounter = 0;
 
-    while ((firstString[firstCounter]) != '\0') firstCounter++;
+    while ((firstString->array[firstCounter]) != '\0') firstCounter++;
 
-    while ((secondString[secondCounter]) != '\0') secondCounter++;
+    while ((secondString->array[secondCounter]) != '\0') secondCounter++;
 
     int i = firstCounter - 1;
     int j = secondCounter - 1;
     for (; i >= 0 && j >= 0; i--, j--)
     {
-        while (!isalpha(firstString[i]) && i >= 1) i--;
-        while (!isalpha(secondString[j]) && j >= 1) j--;
+        while (!isalpha(firstString->array[i]) && i >= 1) i--;
+        while (!isalpha(secondString->array[j]) && j >= 1) j--;
 
-        int charFirst = tolower(firstString[i]);
-        int charSecond = tolower(secondString[j]);
+        int charFirst = tolower(firstString->array[i]);
+        int charSecond = tolower(secondString->array[j]);
 
         if (charFirst != charSecond)
         {
