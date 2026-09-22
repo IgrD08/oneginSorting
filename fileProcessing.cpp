@@ -7,6 +7,7 @@ struct arrayParameter
 const int MAX_STR = 10000;
 
 int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr);
+int writingToStruct(arrayParameter *index, char **bufferPtr);
 void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointerWrite);
 int fileOpening(const char *fileName, int flag);
 char* strchrMy(char *str, int ch);
@@ -29,30 +30,38 @@ int readFromFile(arrayParameter *index, const char *fileName, int flag, char **b
     ssize_t numberOfBytesRead = read(fileDescriptorRead, *bufferPtr, fileInfo.st_size + 1);
     if (numberOfBytesRead == -1) return -1;
 
+    if (close(fileDescriptorRead) == -1) printf("Unable to close\n");
+
     (*bufferPtr)[numberOfBytesRead] = '\0';
     (*bufferPtr)[fileInfo.st_size] = '\0';
 
-    if (close(fileDescriptorRead) == -1) return -1;
+    return 0;
+}
+
+int writingToStruct(arrayParameter *index, char **bufferPtr)
+{
+    assert(bufferPtr);
 
     int numberOfReadLines = 0;
-
-    index[numberOfReadLines].array = *bufferPtr;
-    numberOfReadLines++;
-
     char *element = *bufferPtr;
+    char *firstElement = *bufferPtr;
+
+    if (*firstElement != '\0' && numberOfReadLines < MAX_STR)
+    {
+        index[numberOfReadLines].array = firstElement;
+    }
 
     while ((element = strchrMy(element, '\n')) != NULL)
     {
         *element = '\0';
 
+        index[numberOfReadLines].arrayLen = element - firstElement;
+        numberOfReadLines++;
+
         char *nextLine = element + 1;
 
-        if (*nextLine != '\0' && numberOfReadLines < MAX_STR)
-        {
-            index[numberOfReadLines].array = nextLine;
-            numberOfReadLines++;
-        }
-
+        index[numberOfReadLines].array = nextLine;
+        firstElement = nextLine;
         element = nextLine;
     }
 
@@ -93,6 +102,7 @@ int fileOpening(const char *fileName, int flag)
 
 char* strchrMy(char *str, int ch)
 {
+    assert(str);
 
     while (*str != '\0')
     {
@@ -110,8 +120,8 @@ void safeFree(char **bufferPtr)
     assert(bufferPtr);
 
     if (bufferPtr != NULL && *bufferPtr != NULL) {
-        free(*bufferPtr);
         **bufferPtr = '0';
+        free(*bufferPtr);
         *bufferPtr = NULL;
 
     }

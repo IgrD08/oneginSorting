@@ -92,11 +92,7 @@ int strComparatorFromEnd(const void *first, const void *second)
 
     const arrayParameter *firstString = (const arrayParameter*)first;
     const arrayParameter *secondString = (const arrayParameter*)second;
-    int firstCounter = 0, secondCounter = 0;
-
-    while ((firstString->array[firstCounter]) != '\0') firstCounter++;
-
-    while ((secondString->array[secondCounter]) != '\0') secondCounter++;
+    int firstCounter = firstString->arrayLen, secondCounter = secondString->arrayLen;
 
     int i = firstCounter - 1;
     int j = secondCounter - 1;
@@ -113,6 +109,7 @@ int strComparatorFromEnd(const void *first, const void *second)
 
     return i - j;
 }
+
 
 int ptrComparator(const void *first, const void *second)
 {

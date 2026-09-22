@@ -15,9 +15,15 @@ int main()
     struct arrayParameter index[MAX_STR] = {NULL};
     char *buffer = NULL;
 
-    int nLines = readFromFile(index, "onegin.txt", O_RDONLY, &buffer);
+    if (readFromFile(index, "onegin.txt", O_RDONLY, &buffer) == -1)
+    {
+        return -1;
+    }
 
-    FILE * filePointerWrite = fopen("reonegin.txt", "w");
+    int nLines = writingToStruct(index, &buffer);
+
+    FILE *filePointerWrite = fopen("reonegin.txt", "w");
+
     if (filePointerWrite == NULL)
     {
         return -1;
