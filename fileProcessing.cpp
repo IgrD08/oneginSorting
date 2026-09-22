@@ -4,6 +4,7 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 void writeToFile(char **index, int numberOfReadLines, int fileDescriptor);
 int fileOpening(const char *fileName, int flag);
 char* strchrMy(char *str, int ch);
+void safeFree(char **bufferPtr);
 
 int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 {
@@ -19,9 +20,10 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 
     *bufferPtr = (char*) (calloc(fileInfo.st_size + 1, sizeof(char)));
 
-    ssize_t a = read(fileDescriptorRead, *bufferPtr, fileInfo.st_size + 1);
-    if (a == -1) return -1;
+    ssize_t numberOfBytesRead = read(fileDescriptorRead, *bufferPtr, fileInfo.st_size + 1);
+    if (numberOfBytesRead == -1) return -1;
 
+    (*bufferPtr)[numberOfBytesRead] = '\0';
     (*bufferPtr)[fileInfo.st_size] = '\0';
 
     if (close(fileDescriptorRead) == -1) return -1;
@@ -33,7 +35,7 @@ int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr)
 
     char *element = *bufferPtr;
 
-    while ((element = strchrMy(element, '\n')) != NULL)//TODO - проход по строке
+    while ((element = strchrMy(element, '\n')) != NULL)
     {
         *element = '\0';
 
@@ -97,4 +99,15 @@ char* strchrMy(char *str, int ch)
         str++;
     }
     return NULL;
+}
+
+void safeFree(char **bufferPtr)
+{
+    assert(bufferPtr);
+
+    if (bufferPtr != NULL && *bufferPtr != NULL) {
+        free(*bufferPtr);
+        *bufferPtr = NULL;
+        **bufferPtr = '0';
+    }
 }

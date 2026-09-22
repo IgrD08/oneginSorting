@@ -3,7 +3,7 @@ void qSort(void *array, size_t arrayLen,
            int (*comparator)(const void* first, const void* second), size_t sizeType);
 int strComparatorDown(const void *first, const void *second);
 int strComparatorFromEnd(const void *first, const void *second);
-int intComparator(const void *first, const void *second);
+int ptrComparator(const void *first, const void *second);
 
 void qSort(void *array, size_t arrayLen,
            int (*comparator)(const void* first, const void* second), size_t sizeType)
@@ -117,13 +117,13 @@ int strComparatorFromEnd(const void *first, const void *second)
     return i - j;
 }
 
-int intComparator(const void *first, const void *second)
+int ptrComparator(const void *first, const void *second)
 {
     assert(first);
     assert(second);
 
-    const int firstValue = *((const int*)first);
-    const int secondValue = *((const int*)second);
+    const uintptr_t firstValue = *((const uintptr_t *)first);
+    const uintptr_t secondValue = *((const uintptr_t *)second);
 
     return secondValue - firstValue;
 }

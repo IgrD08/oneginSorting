@@ -33,13 +33,13 @@ int main()
 
     writeToFile(index, nLines, fileDescriptorWrite);
 
-//     qSort(index, nLines, intComparator, sizeof(int));
-//
-//     writeToFile(index, nLines, fileDescriptorWrite);
+    qSort(index, nLines, ptrComparator, sizeof(int));
+
+    writeToFile(index, nLines, fileDescriptorWrite);
 
     close(fileDescriptorWrite);
 
-    free(buffer); //TODO - прокачать free
+    free(&buffer);
 
     return 0;
 }
