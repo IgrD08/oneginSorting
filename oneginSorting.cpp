@@ -12,13 +12,7 @@
 
 int main()
 {
-    struct arrayParameter
-    {
-        char *array;
-        size_t arrayLen;
-    };
-
-    char *index[MAX_STR] = {NULL};
+    struct arrayParameter index[MAX_STR] = {NULL};
     char *buffer = NULL;
 
     int nLines = readFromFile(index, "onegin.txt", O_RDONLY, &buffer);
@@ -39,7 +33,7 @@ int main()
 
     close(fileDescriptorWrite);
 
-    free(&buffer);
+    safeFree(&buffer);
 
     return 0;
 }

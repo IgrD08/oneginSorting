@@ -1,3 +1,9 @@
+struct arrayParameter
+{
+    char *array;
+    size_t arrayLen;
+};
+
 const int MAX_STR = 10000;
 
 int readFromFile(char **index, const char *fileName, int flag, char **bufferPtr);
@@ -107,7 +113,8 @@ void safeFree(char **bufferPtr)
 
     if (bufferPtr != NULL && *bufferPtr != NULL) {
         free(*bufferPtr);
-        *bufferPtr = NULL;
         **bufferPtr = '0';
+        *bufferPtr = NULL;
+
     }
 }

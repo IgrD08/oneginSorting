@@ -1,0 +1,204 @@
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: C:\Projects\oneginSorting\oneginSorting.exe,
+
+ВНЕЗАПНО: Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x004365EC в функции strComparatorFromEnd() в файле C:/Projects/oneginSorting/sorting.cpp на строке 107. Попытка прочесть данные по адресу NULL в модуле C:\Projects\oneginSorting\oneginSorting.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x005111DC (32-bit), Flags: Cmdre0, Thread: 0x22E0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x004365EC in C:\Projects\oneginSorting\oneginSorting.exe: strComparatorFromEnd() at C:/Projects/oneginSorting/sorting.cpp:107:
+
+    105:     int firstCounter = 0, secondCounter = 0;
+    106: 
+=>  107:     while ((firstString[firstCounter]) != '\0') firstCounter++;
+    108: 
+    109:     while ((secondString[secondCounter]) != '\0') secondCounter++;
+
+# 1 0x7575DC98 in C:\WINDOWS\System32\msvcrt.dll: qsort()
+
+# 2 0x0043680C in C:\Projects\oneginSorting\oneginSorting.exe: main() at C:/Projects/oneginSorting/oneginSorting.cpp:27:
+
+     25:     writeToFile(index, nLines, fileDescriptorWrite);
+     26: 
+=>   27:     qsort(index, nLines, sizeof(arrayParameter*), strComparatorFromEnd);//TODO - РјР°СЃСЃРёРІ СЃС‚СЂСѓРєС‚СѓСЂ
+     28: 
+     29:     writeToFile(index, nLines, fileDescriptorWrite);
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\demen\codeblocks\mingw\include\txlib.h
+Compiled:	Sep 22 2026 17:58:03, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Sep 22 2026 17:58:06
+
+Run file:	C:\Projects\oneginSorting\oneginSorting.exe
+Directory:	C:\Projects\oneginSorting
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Projects\oneginSorting\oneginSorting.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x004365EC в функции strComparatorFromEnd() в файле C:/Projects/oneginSorting/sorting.cpp на строке 107. Попытка прочесть данные по адресу NULL в модуле C:\Projects\oneginSorting\oneginSorting.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x005111DC (32-bit), Flags: Cmdre0, Thread: 0x22E0 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x004365EC in C:\Projects\oneginSorting\oneginSorting.exe: strComparatorFromEnd() at C:/Projects/oneginSorting/sorting.cpp:107:
+
+    105:     int firstCounter = 0, secondCounter = 0;
+    106: 
+=>  107:     while ((firstString[firstCounter]) != '\0') firstCounter++;
+    108: 
+    109:     while ((secondString[secondCounter]) != '\0') secondCounter++;
+
+# 1 0x7575DC98 in C:\WINDOWS\System32\msvcrt.dll: qsort()
+
+# 2 0x0043680C in C:\Projects\oneginSorting\oneginSorting.exe: main() at C:/Projects/oneginSorting/oneginSorting.cpp:27:
+
+     25:     writeToFile(index, nLines, fileDescriptorWrite);
+     26: 
+=>   27:     qsort(index, nLines, sizeof(arrayParameter*), strComparatorFromEnd);//TODO - РјР°СЃСЃРёРІ СЃС‚СЂСѓРєС‚СѓСЂ
+     28: 
+     29:     writeToFile(index, nLines, fileDescriptorWrite);
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\demen\codeblocks\mingw\include\txlib.h
+Compiled:	Sep 22 2026 17:58:03, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Sep 22 2026 17:58:06
+
+Run file:	C:\Projects\oneginSorting\oneginSorting.exe
+Directory:	C:\Projects\oneginSorting
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib предупреждает:
+
+Программа: C:\Projects\oneginSorting\oneginSorting.exe,
+
+ВНЕЗАПНО: Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x004365EC в функции strComparatorFromEnd() в файле C:/Projects/oneginSorting/sorting.cpp на строке 107. Попытка прочесть данные по адресу NULL в модуле C:\Projects\oneginSorting\oneginSorting.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+#1: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x005111DC (32-bit), Flags: Cmdre0, Thread: 0x7294 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x004365EC in C:\Projects\oneginSorting\oneginSorting.exe: strComparatorFromEnd() at C:/Projects/oneginSorting/sorting.cpp:107:
+
+    105:     int firstCounter = 0, secondCounter = 0;
+    106: 
+=>  107:     while ((firstString->array[firstCounter]) != '\0') firstCounter++;
+    108: 
+    109:     while ((secondString->array[secondCounter]) != '\0') secondCounter++;
+
+# 1 0x7575DC98 in C:\WINDOWS\System32\msvcrt.dll: qsort()
+
+# 2 0x0043680C in C:\Projects\oneginSorting\oneginSorting.exe: main() at C:/Projects/oneginSorting/oneginSorting.cpp:27:
+
+     25:     writeToFile(index, nLines, fileDescriptorWrite);
+     26: 
+=>   27:     qsort(index, nLines, sizeof(arrayParameter*), strComparatorFromEnd);//TODO - РјР°СЃСЃРёРІ СЃС‚СЂСѓРєС‚СѓСЂ
+     28: 
+     29:     writeToFile(index, nLines, fileDescriptorWrite);
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\demen\codeblocks\mingw\include\txlib.h
+Compiled:	Sep 22 2026 17:58:03, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Sep 22 2026 18:01:43
+
+Run file:	C:\Projects\oneginSorting\oneginSorting.exe
+Directory:	C:\Projects\oneginSorting
+
+--------------------------------------------------
+
+--------------------------------------------------
+TXLib соболезнует...
+
+Программа: C:\Projects\oneginSorting\oneginSorting.exe,
+
+ВНЕЗАПНО: signal (11, 0x00): SIGSEGV: Доступ по неверному указателю. Ставьте ассерты! 
+
+Нарушение доступа к памяти.
+
+#1: Исключение EXCEPTION_ACCESS_VIOLATION (0xC0000005) при выполнении кода по адресу 0x004365EC в функции strComparatorFromEnd() в файле C:/Projects/oneginSorting/sorting.cpp на строке 107. Попытка прочесть данные по адресу NULL в модуле C:\Projects\oneginSorting\oneginSorting.exe. Спасибо _txUnhandledExceptionFilter(), что сообщил. Люблю его <3
+
+С помощью функции signal() вы можете сами обработать эту ошибку.
+
+#2: TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400], Instance: 0x005111DC (32-bit), Flags: Cmdre0, Thread: 0x7294 (Main). 
+
+--------------------------------------------------
+Стек вызовов:
+
+# 0 0x004365EC in C:\Projects\oneginSorting\oneginSorting.exe: strComparatorFromEnd() at C:/Projects/oneginSorting/sorting.cpp:107:
+
+    105:     int firstCounter = 0, secondCounter = 0;
+    106: 
+=>  107:     while ((firstString->array[firstCounter]) != '\0') firstCounter++;
+    108: 
+    109:     while ((secondString->array[secondCounter]) != '\0') secondCounter++;
+
+# 1 0x7575DC98 in C:\WINDOWS\System32\msvcrt.dll: qsort()
+
+# 2 0x0043680C in C:\Projects\oneginSorting\oneginSorting.exe: main() at C:/Projects/oneginSorting/oneginSorting.cpp:27:
+
+     25:     writeToFile(index, nLines, fileDescriptorWrite);
+     26: 
+=>   27:     qsort(index, nLines, sizeof(arrayParameter*), strComparatorFromEnd);//TODO - РјР°СЃСЃРёРІ СЃС‚СЂСѓРєС‚СѓСЂ
+     28: 
+     29:     writeToFile(index, nLines, fileDescriptorWrite);
+
+--------------------------------------------------
+Developed with:
+
+The Dumb Artist Library (TX Library)
+TXLib [Ver: 00173a, Rev: 175, Date: 2025-12-31 23:02:50 +0400]
+Copyright (C) Ded (Ilya Dedinsky, http://txlib.ru) <mail@txlib.ru>
+See license on: http://txlib.ru
+
+TXLib file:	c:\users\demen\codeblocks\mingw\include\txlib.h
+Compiled:	Sep 22 2026 17:58:03, GNU g++ 4.8.1, std=201103L, MinGW Runtime 3.20, 32-bit, DEBUG
+Started:	Sep 22 2026 18:01:43
+
+Run file:	C:\Projects\oneginSorting\oneginSorting.exe
+Directory:	C:\Projects\oneginSorting
+
+--------------------------------------------------
