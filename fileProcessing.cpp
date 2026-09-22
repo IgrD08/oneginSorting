@@ -7,7 +7,7 @@ struct arrayParameter
 const int MAX_STR = 10000;
 
 int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr);
-void writeToFile(arrayParameter *index, int numberOfReadLines, int fileDescriptor);
+void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointerWrite);
 int fileOpening(const char *fileName, int flag);
 char* strchrMy(char *str, int ch);
 void safeFree(char **bufferPtr);
@@ -59,22 +59,20 @@ int readFromFile(arrayParameter *index, const char *fileName, int flag, char **b
     return numberOfReadLines;
 }
 
-void writeToFile(arrayParameter *index, int numberOfReadLines, int fileDescriptor)
+void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointerWrite)
 {
     assert(index);
+    assert(filePointerWrite);
 
     for (int i = 0; i < numberOfReadLines; i++)
     {
         if (index[i].array != NULL)
         {
-            write(fileDescriptor, index[i].array, strlen(index[i].array));
-            write(fileDescriptor, "\n", 1);
+            fprintf(filePointerWrite, "<<%s>>\n", index[i].array);
         }
     }
 
-    const char *text = "*****************************************\n";
-
-    write(fileDescriptor, text, 42);
+    fprintf(filePointerWrite, "*****************************************\n");
 
     return;
 }

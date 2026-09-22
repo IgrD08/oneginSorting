@@ -17,21 +17,25 @@ int main()
 
     int nLines = readFromFile(index, "onegin.txt", O_RDONLY, &buffer);
 
-    int fileDescriptorWrite = fileOpening("reonegin.txt", O_WRONLY);
+    FILE * filePointerWrite = fopen("reonegin.txt", "w");
+    if (filePointerWrite == NULL)
+    {
+        return -1;
+    }
 
-    qSort(index, nLines, strComparatorDown, sizeof(arrayParameter));//TODO - check to mistake
+    qSort(index, nLines, strComparatorDown, sizeof(arrayParameter));
 
-    writeToFile(index, nLines, fileDescriptorWrite);
+    writeToFile(index, nLines, filePointerWrite);
 
-    qsort(index, nLines, sizeof(arrayParameter), strComparatorFromEnd);//TODO - массив структур
+    qsort(index, nLines, sizeof(arrayParameter), strComparatorFromEnd);
 
-    writeToFile(index, nLines, fileDescriptorWrite);
+    writeToFile(index, nLines, filePointerWrite);
 
     qSort(index, nLines, ptrComparator, sizeof(arrayParameter));
 
-    writeToFile(index, nLines, fileDescriptorWrite);
+    writeToFile(index, nLines, filePointerWrite);
 
-    close(fileDescriptorWrite);
+    fclose(filePointerWrite);
 
     safeFree(&buffer);
 
