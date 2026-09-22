@@ -105,12 +105,9 @@ int strComparatorFromEnd(const void *first, const void *second)
         while (!isalpha(firstString->array[i]) && i >= 1) i--;
         while (!isalpha(secondString->array[j]) && j >= 1) j--;
 
-        int charFirst = tolower(firstString->array[i]);
-        int charSecond = tolower(secondString->array[j]);
-
-        if (charFirst != charSecond)
+        if (tolower(firstString->array[i]) != tolower(secondString->array[j]))
         {
-            return charFirst - charSecond;
+            return tolower(firstString->array[i]) - tolower(secondString->array[j]);
         }
     }
 

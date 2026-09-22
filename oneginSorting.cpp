@@ -27,7 +27,7 @@ int main()
 
     writeToFile(index, nLines, fileDescriptorWrite);
 
-    qSort(index, nLines, ptrComparator, sizeof(int));
+    qSort(index, nLines, ptrComparator, sizeof(arrayParameter));
 
     writeToFile(index, nLines, fileDescriptorWrite);
 
