@@ -4,19 +4,16 @@ struct arrayParameter
     size_t arrayLen;
 };
 
-const int MAX_STR = 10000;
-
-int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr);
+int readFromFile(const char *fileName, int flag, char **bufferPtr);
 int writingToStruct(arrayParameter *index, char **bufferPtr);
 void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointerWrite);
 int fileOpening(const char *fileName, int flag);
 char* strchrMy(char *str, int ch);
 void safeFree(char **bufferPtr);
 
-int readFromFile(arrayParameter *index, const char *fileName, int flag, char **bufferPtr)
+int readFromFile(const char *fileName, int flag, char **bufferPtr)
 {
     assert(fileName);
-    assert(index);
     assert(bufferPtr);
 
     int fileDescriptorRead = fileOpening(fileName, flag);
@@ -46,7 +43,7 @@ int writingToStruct(arrayParameter *index, char **bufferPtr)
     char *element = *bufferPtr;
     char *firstElement = *bufferPtr;
 
-    if (*firstElement != '\0' && numberOfReadLines < MAX_STR)
+    if (*firstElement != '\0')
     {
         index[numberOfReadLines].array = firstElement;
     }
