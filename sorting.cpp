@@ -110,7 +110,6 @@ int strComparatorFromEnd(const void *first, const void *second)
     return i - j;
 }
 
-
 int ptrComparator(const void *first, const void *second)
 {
     assert(first);

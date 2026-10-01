@@ -24,6 +24,11 @@ int readFromFile(const char *fileName, int flag, char **bufferPtr)
 
     *bufferPtr = (char*) (calloc(fileInfo.st_size + 1, sizeof(char)));
 
+    if (*bufferPtr == NULL)
+    {
+        return -1;
+    }
+
     ssize_t numberOfBytesRead = read(fileDescriptorRead, *bufferPtr, fileInfo.st_size + 1);
     if (numberOfBytesRead == -1) return -1;
 
