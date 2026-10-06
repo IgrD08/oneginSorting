@@ -1,9 +1,4 @@
-void swap(void *firstValue, void *secondValue, size_t sizeType);
-void qSort(void *array, size_t arrayLen,
-           int (*comparator)(const void* first, const void* second), size_t sizeType);
-int strComparatorDown(const void *first, const void *second);
-int strComparatorFromEnd(const void *first, const void *second);
-int ptrComparator(const void *first, const void *second);
+#include "file.h"
 
 void qSort(void *array, size_t arrayLen,
            int (*comparator)(const void* first, const void* second), size_t sizeType)

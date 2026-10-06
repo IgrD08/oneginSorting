@@ -1,15 +1,4 @@
-struct arrayParameter
-{
-    char *array;
-    size_t arrayLen;
-};
-
-int readFromFile(const char *fileName, int flag, char **bufferPtr);
-int writingToStruct(arrayParameter *index, char **bufferPtr);
-void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointerWrite);
-int fileOpening(const char *fileName, int flag);
-char* strchrMy(char *str, int ch);
-void safeFree(char **bufferPtr);
+#include "file.h"
 
 int readFromFile(const char *fileName, int flag, char **bufferPtr)
 {
@@ -38,6 +27,20 @@ int readFromFile(const char *fileName, int flag, char **bufferPtr)
     (*bufferPtr)[fileInfo.st_size] = '\0';
 
     return 0;
+}
+
+int countLines(char *buffer)
+{
+    int nLines = 0;
+    char *temp = buffer;
+    while ((temp = strchrMy(temp, '\n')) != NULL)
+    {
+        nLines++;
+        temp++;
+    }
+    if (buffer[0] != '\0' && *(temp - 1) != '\n') nLines++;
+
+    return nLines;
 }
 
 int writingToStruct(arrayParameter *index, char **bufferPtr)
@@ -84,6 +87,20 @@ void writeToFile(arrayParameter *index, int numberOfReadLines, FILE *filePointer
     }
 
     fprintf(filePointerWrite, "*****************************************\n");
+
+    return;
+}
+
+void sortAndWrite(struct arrayParameter *index, int nLines, FILE *fp)
+{
+    qSort(index, nLines, strComparatorDown, sizeof(arrayParameter));
+    writeToFile(index, nLines, fp);
+
+    qsort(index, nLines, sizeof(arrayParameter), strComparatorFromEnd);
+    writeToFile(index, nLines, fp);
+
+    qSort(index, nLines, ptrComparator, sizeof(arrayParameter));
+    writeToFile(index, nLines, fp);
 
     return;
 }

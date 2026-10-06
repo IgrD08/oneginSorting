@@ -1,17 +1,4 @@
-#include <stdio.h>
-#include <assert.h>
-#include <string.h>
-#include <stdint.h>
-#include <ctype.h>
-#include <fcntl.h>
-#include <unistd.h>
-#include <stdlib.h>
-#include <sys/stat.h>
-#include "fileProcessing.cpp"
-#include "sorting.cpp"
-
-void sortAndWrite(struct arrayParameter *index, int nLines, FILE *fp);
-int countLines(char *buffer);
+#include "file.h"
 
 int main()
 {
@@ -45,32 +32,4 @@ int main()
     safeFree(&buffer);
 
     return 0;
-}
-
-int countLines(char *buffer)
-{
-    int nLines = 0;
-    char *temp = buffer;
-    while ((temp = strchrMy(temp, '\n')) != NULL)
-    {
-        nLines++;
-        temp++;
-    }
-    if (buffer[0] != '\0' && *(temp - 1) != '\n') nLines++;
-
-    return nLines;
-}
-
-void sortAndWrite(struct arrayParameter *index, int nLines, FILE *fp)
-{
-    qSort(index, nLines, strComparatorDown, sizeof(arrayParameter));
-    writeToFile(index, nLines, fp);
-
-    qsort(index, nLines, sizeof(arrayParameter), strComparatorFromEnd);
-    writeToFile(index, nLines, fp);
-
-    qSort(index, nLines, ptrComparator, sizeof(arrayParameter));
-    writeToFile(index, nLines, fp);
-
-    return;
 }
